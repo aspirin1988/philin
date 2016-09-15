@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Currencies v0.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-27 06:52:49+0000\n"
+"Last-Translator: admin <eidekeyev@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:34
+#: inventor-currencies.php:0
+#@ inventor
+#@ inventor-currencies
+msgid "Inventor Currencies"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:47
+#@ inventor-currencies
+msgid "Number of additional currencies"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:50
+#@ inventor-currencies
+msgid "Input positive integer or 0 for no other currencies."
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:66
+#@ inventor-currencies
+msgid "currencylayer.com API key"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:69
+#@ inventor-currencies
+msgid "Enter if you want to automatically update rates of currencies."
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:84
+#@ inventor-currencies
+msgid "Currency"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:96
+#@ inventor-currencies
+msgid "Currency Symbol"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:109
+#@ inventor-currencies
+msgid "Currency Code"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:123
+#@ inventor-currencies
+msgid "Show Symbol After Amount"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:136
+#@ inventor-currencies
+msgid "Decimal places"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:155
+#@ inventor-currencies
+msgid "Decimal Separator"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:160
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:178
+#@ inventor-currencies
+msgid ". (dot)"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:161
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:179
+#@ inventor-currencies
+msgid ", (comma)"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:173
+#@ inventor-currencies
+msgid "Thousands Separator"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:180
+#@ inventor-currencies
+msgid "\" \" (space)"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:181
+#@ inventor-currencies
+msgid "\"\" (empty string)"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:193
+#@ inventor-currencies
+msgid "Rate"
+msgstr ""
+
+#: includes/customizations/class-inventor-currencies-customizations-currencies.php:196
+#@ inventor-currencies
+msgid "Rate from default currency"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: inventor-currencies.php:0
+#@ inventor-currencies
+msgid "http://inventorwp.com/plugins/inventor-currencies/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: inventor-currencies.php:0
+#@ inventor-currencies
+msgid "Adds multiple currencies support."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: inventor-currencies.php:0
+#@ inventor-currencies
+msgid "Pragmatic Mates"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: inventor-currencies.php:0
+#@ inventor-currencies
+msgid "http://inventorwp.com"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: inventor-currencies.php:0
+#@ inventor-currencies
+msgid "0.6.0"
+msgstr ""
+

@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Properties v0.8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-28 08:28:30+0000\n"
+"Last-Translator: admin <eidekeyev@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: includes/customizations/class-inventor-properties-customizations-properties.php:34
+#: inventor-properties.php:0
+#@ inventor-properties
+msgid "Inventor Properties"
+msgstr ""
+
+#: includes/customizations/class-inventor-properties-customizations-properties.php:47
+#@ inventor-properties
+msgid "Hide unasigned amenities"
+msgstr ""
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:60
+#: includes/post-types/class-inventor-properties-post-type-property.php:66
+#: includes/post-types/class-inventor-properties-post-type-property.php:72
+#@ inventor-properties
+msgid "Properties"
+msgstr "Свойства"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:61
+#@ inventor-properties
+msgid "Property"
+msgstr "имущество"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:62
+#: includes/post-types/class-inventor-properties-post-type-property.php:63
+#@ inventor-properties
+msgid "Add New Property"
+msgstr "Добавить новое имущество"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:64
+#@ inventor-properties
+msgid "Edit Property"
+msgstr "Редактировать имущество "
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:65
+#@ inventor-properties
+msgid "New Property"
+msgstr "Новое имущество "
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:67
+#@ inventor-properties
+msgid "View Property"
+msgstr "Посмотреть имущетсво"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:68
+#@ inventor-properties
+msgid "Search Property"
+msgstr "Искать имущество"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:69
+#@ inventor-properties
+msgid "No Properties found"
+msgstr ""
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:70
+#@ inventor-properties
+msgid "No Properties Found in Trash"
+msgstr ""
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:81
+#@ inventor-properties
+msgctxt "URL slug"
+msgid "properties"
+msgstr ""
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:106
+#@ inventor-properties
+msgid "Details"
+msgstr "Детали"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:113
+#@ inventor-properties
+msgid "Property type"
+msgstr "Тип имущества"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:120
+#@ inventor-properties
+msgid "Reference"
+msgstr "Справка"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:126
+#@ inventor-properties
+msgid "Year built"
+msgstr "Год постройки"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:137
+#@ inventor-properties
+msgid "Contract type"
+msgstr "Форма контракта"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:142
+#@ inventor-properties
+msgid "Rent"
+msgstr "Аренда"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:143
+#@ inventor-properties
+msgid "Sale"
+msgstr "Продажа"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:151
+#@ inventor-properties
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:158
+#@ inventor-properties
+msgid "Rooms"
+msgstr "Rooms"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:169
+#@ inventor-properties
+msgid "Beds"
+msgstr "Кровати"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:180
+#@ inventor-properties
+msgid "Baths"
+msgstr "баня"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:191
+#@ inventor-properties
+msgid "Garages"
+msgstr "Гаражи"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:202
+#@ inventor-properties
+msgid "Parking lots"
+msgstr "Автостоянки"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:213
+#@ inventor-properties
+msgid "Home area"
+msgstr "Главная площадь"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:215
+#: includes/post-types/class-inventor-properties-post-type-property.php:228
+#, php-format
+#@ inventor-properties
+msgid "In %s. (Enter value without unit)"
+msgstr ""
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:226
+#@ inventor-properties
+msgid "Lot area"
+msgstr "Размер участка"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:239
+#@ inventor-properties
+msgid "Lot dimensions"
+msgstr "размеры участка"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:242
+#@ inventor-properties
+msgid "e.g. 20x30, 20x30x40, 20x30x40x50"
+msgstr ""
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:246
+#: templates/amenities.php:10
+#@ inventor-properties
+msgid "Amenities"
+msgstr "Удобства"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:271
+#: includes/post-types/class-inventor-properties-post-type-property.php:279
+#: templates/floor-plans.php:8
+#@ inventor-properties
+msgid "Floor plans"
+msgstr "Планировка этажей"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:272
+#@ inventor-properties
+msgid "Upload some floor plans images."
+msgstr "Вы можете добавить некоторые поэтажные планы изображений."
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:309
+#: templates/public-facilities.php:8
+#@ inventor-properties
+msgid "Public facilities"
+msgstr "Государственные учреждения"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:323
+#@ inventor-properties
+msgid "Public Facility"
+msgstr "Общественный фонд"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:324
+#@ inventor-properties
+msgid "Add Another Public Facility"
+msgstr "Добавить еще Общественный фонд"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:325
+#@ inventor-properties
+msgid "Remove Public Facility"
+msgstr "Удалить Общественный фонд"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:331
+#: includes/post-types/class-inventor-properties-post-type-property.php:387
+#@ inventor-properties
+msgid "Key"
+msgstr "Ключ"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:337
+#: includes/post-types/class-inventor-properties-post-type-property.php:393
+#@ inventor-properties
+msgid "Value"
+msgstr "Стоимость"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:365
+#: includes/post-types/class-inventor-properties-post-type-property.php:379
+#: templates/valuation.php:8
+#@ inventor-properties
+msgid "Valuation"
+msgstr "оценка"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:380
+#@ inventor-properties
+msgid "Add Another Valuation"
+msgstr "Добавить другой Оценка"
+
+#: includes/post-types/class-inventor-properties-post-type-property.php:381
+#@ inventor-properties
+msgid "Remove Valuation"
+msgstr "Удалить Оценка"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:34
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:44
+#@ inventor-properties
+msgid "Property Amenities"
+msgstr "Удобства в отеле"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:35
+#@ inventor-properties
+msgid "Property Amenity"
+msgstr "Недвижимость Удобство"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:36
+#@ inventor-properties
+msgid "Search Property Amenity"
+msgstr "Поиск недвижимости Удобство"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:37
+#@ inventor-properties
+msgid "All Property Amenities"
+msgstr "Все Удобства в отеле"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:38
+#@ inventor-properties
+msgid "Parent Property Amenity"
+msgstr "Родитель Удобство недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:39
+#@ inventor-properties
+msgid "Parent Property Amenity:"
+msgstr "Родитель Удобство недвижимости:"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:40
+#@ inventor-properties
+msgid "Edit Property Amenity"
+msgstr "Редактировать Удобство недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:41
+#@ inventor-properties
+msgid "Update Property Amenity"
+msgstr "Обновление Удобство недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:42
+#@ inventor-properties
+msgid "Add New Property Amenity"
+msgstr "Добавить информацию о недвижимости Удобство"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:43
+#@ inventor-properties
+msgid "New Property Amenity"
+msgstr "Новая Удобство недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:45
+#@ inventor-properties
+msgid "No property amenities found."
+msgstr "Нет услуги отеля не найдено."
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:52
+#@ inventor-properties
+msgctxt "URL slug"
+msgid "property-amenity"
+msgstr ""
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:34
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:44
+#@ inventor-properties
+msgid "Property Types"
+msgstr "Виды недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:35
+#@ inventor-properties
+msgid "Property Type"
+msgstr "Тип недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:36
+#@ inventor-properties
+msgid "Search Property Type"
+msgstr "Поиск Типа недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:37
+#@ inventor-properties
+msgid "All Property Types"
+msgstr "Все типы недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:38
+#@ inventor-properties
+msgid "Parent Property Type"
+msgstr "Родитель Тип недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:39
+#@ inventor-properties
+msgid "Parent Property Type:"
+msgstr "Parent Property Type:"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:40
+#@ inventor-properties
+msgid "Edit Property Type"
+msgstr "Изменить тип недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:41
+#@ inventor-properties
+msgid "Update Property Type"
+msgstr "Обновление Типа недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:42
+#@ inventor-properties
+msgid "Add New Property Type"
+msgstr "Добавление типа недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:43
+#@ inventor-properties
+msgid "New Property Type"
+msgstr "Новый тип недвижимости"
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:45
+#@ inventor-properties
+msgid "No property types found."
+msgstr "Нет типы недвижимости не найдено."
+
+#: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:52
+#@ inventor-properties
+msgctxt "URL slug"
+msgid "property-type"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: inventor-properties.php:0
+#@ inventor-properties
+msgid "http://inventorwp.com/plugins/inventor-properties/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: inventor-properties.php:0
+#@ inventor-properties
+msgid "Properties listing support."
+msgstr "Свойства списка поддержки."
+
+#. translators: plugin header field 'Author'
+#: inventor-properties.php:0
+#@ inventor-properties
+msgid "Pragmatic Mates"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: inventor-properties.php:0
+#@ inventor-properties
+msgid "http://inventorwp.com"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: inventor-properties.php:0
+#@ inventor-properties
+msgid "0.8.0"
+msgstr ""
+

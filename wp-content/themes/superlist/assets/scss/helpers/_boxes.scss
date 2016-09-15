@@ -1,0 +1,241 @@
+.widget_inventor_boxes {
+    .footer & {
+        .row > div {
+            @extend .clearfix;
+
+            float: none;
+            width: 100%;
+        }
+    }   
+}
+
+.boxes-title-description {
+    margin-bottom: -20px;
+
+    .widgettitle {
+        margin: 0px 0px 30px 0px;
+        text-align: left;
+
+        &:after {
+            margin: 17px 0px 0px 0px;
+        }
+    }
+
+    .description {
+        margin: 0px 0px 20px 0px;
+        padding: 0px;
+        text-align: left;
+    }
+
+    a {
+        margin-bottom: 20px;
+    }
+}
+
+.boxes-numbers {
+    @extend .boxes-centered;
+
+    div[class^=col-]:last-of-type {
+        .box-inner {
+            &:after {
+                content: none;
+            }
+        }
+    }
+
+    .box-icon {
+        background-color: transparent;
+        border: none;
+        color: #fff;
+        font-size: 40px;
+        height: 50px;
+    }
+
+    .box-body {
+        .box-title {
+            font-size: 15px;
+            letter-spacing: 2px;
+            margin: 15px 0px 10px 0px;
+        }
+    }
+
+    .box-inner {
+        &:after {
+            background-color: rgba( 255, 255, 255, 0.3 );
+            content: '';
+            height: 75px;
+            position: absolute;
+            right: 0px;
+            top: 30px;
+            width: 1px;
+        }
+
+        //div[class^=col-]:last-of-type .box & {
+        //    &:after {
+        //        content: none;
+        //    }
+        //}
+    }
+}
+
+.boxes-centered {
+    .box-icon {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .box-body {
+        display: block;
+
+        .box-content {
+            text-align: center;
+        }
+
+        .box-title {
+            text-align: center;
+        }
+
+        .box-number {
+            font-size: 20px;
+            text-align: center;
+        }
+
+        .box-content {
+            text-align: center;
+        }
+
+        .box-read-more {
+            text-align: center;
+        }
+    }
+}
+
+.boxes-condensed {
+    @extend .boxes-centered;
+}
+
+.box {    
+    @media (max-width: $screen-md-max) {
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .footer & {
+        margin: 0px 0px 20px 0px;
+    }
+}
+
+.box-icon {
+    background-color: #fff;
+    border: 1px solid #f0f0f0;
+    border-radius: 50%;
+    color: $color-primary;
+    float: left;
+    font-size: 34px;
+    height: 72px;
+    line-height: 68px;
+    margin: 0px 20px 0px 0px;
+    position: relative;
+    text-align: center;
+    width: 72px;
+
+    .fa {
+        left: 50%;
+        position: absolute;
+        top: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        -webkit-transform: translateX(-50%) translateY(-50%);
+    }
+
+    .fa-map {
+        font-size: 32px;
+    }
+
+    .footer & {
+        background-color: transparent;
+        border: 0px;
+        border-radius: 0px;
+        color: $color-primary;
+        font-size: 25px;
+        line-height: 1;
+        margin: -3px 20px 0px 0px;
+        width: 28px;
+
+        .fa-mobile {
+            font-size: 32px;
+        }
+
+        .fa {
+            position: relative;
+            left: auto;
+            top: auto;
+            transform: none;
+            -webkit-transform: none;
+        }
+    }
+}
+
+.box-number {
+    font-size: 38px !important;
+    font-weight: bold !important;
+    line-height: 1;
+}
+
+.box-body {
+    display: table-cell;
+
+    .box-title {
+        font-size: 24px;
+        font-weight: 400;
+        margin: 24px 0px 20px 0px;
+
+        .footer & {
+            color: transparentize(#fff, 0.4);
+            font-size: 16px;
+            margin: 0px 0px 10px 0px;
+        }
+    }
+
+    .box-content {
+        color: $color-gray-darker;
+        line-height: 1.5;
+        margin: 0px;
+
+        .footer & {
+            color: transparentize(#fff, 0.7);
+        }
+    }
+
+    .box-read-more {
+        color: $color-primary;
+        display: block;
+        margin-top: 10px;
+
+        .fa {
+            background-color: transparent;
+            font-size: 18px;
+            height: auto;
+            margin-left: 5px;
+            vertical-align: -1px;
+            width: auto;
+        }
+    }
+
+    a.fa, a .fa {
+        background-color: $color-primary;
+        border-radius: 50%;
+        display: inline-block;
+        font-size: 12px;
+        height: 24px;
+        line-height: 25px;
+        margin-left: 0px;
+        margin-right: 10px;
+        text-align: center;
+        width: 24px;
+        transition: all linear .15s;
+
+        &:hover {
+            color: #fff;
+        }
+    }
+}

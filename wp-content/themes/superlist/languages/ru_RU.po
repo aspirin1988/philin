@@ -1,0 +1,1177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Superlist v2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-19 08:06:38+0000\n"
+"Last-Translator: admin <eidekeyev@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:21
+#@ superlist
+msgid "Page does not exist."
+msgstr "Страница не найдена"
+
+#: assets/libraries/class-tgm-plugin-activation.php:333
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:334
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:335
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:336
+#@ tgmpa
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:338
+#, php-format
+#@ superlist
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Данная тема требует следующие плагины"
+msgstr[1] "Данная тема требует следующие плагины"
+msgstr[2] "Данная тема требует следующие плагины"
+
+#: assets/libraries/class-tgm-plugin-activation.php:343
+#, php-format
+#@ superlist
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Данная тема рекомендует следующие плагины"
+msgstr[1] "Данная тема рекомендует следующие плагины"
+msgstr[2] "Данная тема рекомендует следующие плагины"
+
+#: assets/libraries/class-tgm-plugin-activation.php:348
+#, php-format
+#@ superlist
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Извините, но вы не имеете подходящего уровня доступа для установки %1$s plugin."
+msgstr[1] "Извините, но вы не имеете подходящего уровня доступа для установки %1$s plugin."
+msgstr[2] "Извините, но вы не имеете подходящего уровня доступа для установки %1$s plugin."
+
+#: assets/libraries/class-tgm-plugin-activation.php:353
+#, php-format
+#@ superlist
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:358
+#, php-format
+#@ superlist
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:363
+#, php-format
+#@ superlist
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:368
+#, php-format
+#@ superlist
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:373
+#, php-format
+#@ superlist
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:378
+#, php-format
+#@ superlist
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:383
+#@ superlist
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:388
+#@ superlist
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:393
+#@ superlist
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:397
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:398
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:399
+#: assets/libraries/class-tgm-plugin-activation.php:3034
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:401
+#, php-format
+#@ tgmpa
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:402
+#, php-format
+#@ tgmpa
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:403
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:404
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:405
+#@ tgmpa
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:524
+#@ tgmpa
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:525
+#@ tgmpa
+msgid "Update Required"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:639
+#@ tgmpa
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:833
+#: assets/libraries/class-tgm-plugin-activation.php:3443
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:940
+#@ tgmpa
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:940
+#: assets/libraries/class-tgm-plugin-activation.php:943
+#@ tgmpa
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:943
+#@ tgmpa
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:1121
+#: assets/libraries/class-tgm-plugin-activation.php:2833
+#@ tgmpa
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:1886
+#, php-format
+#@ tgmpa
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2172
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2175
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2191
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2194
+#@ tgmpa
+msgid "External Source"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2197
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2214
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2218
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2220
+#@ tgmpa
+msgid "Active"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2226
+#@ tgmpa
+msgid "Required Update not Available"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2229
+#@ tgmpa
+msgid "Requires Update"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2232
+#@ tgmpa
+msgid "Update recommended"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2240
+#, php-format
+#@ tgmpa
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2285
+#, php-format
+#@ tgmpa
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2288
+#, php-format
+#@ tgmpa
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2291
+#, php-format
+#@ tgmpa
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2294
+#, php-format
+#@ tgmpa
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2376
+#@ tgmpa
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2384
+#@ tgmpa
+msgid "Installed version:"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2392
+#@ tgmpa
+msgid "Minimum required version:"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2404
+#@ tgmpa
+msgid "Available version:"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2427
+#, php-format
+#@ tgmpa
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2441
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2442
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2443
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2447
+#@ tgmpa
+msgid "Version"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2448
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2496
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2500
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2505
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2575
+#@ tgmpa
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2608
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2614
+#@ tgmpa
+msgid "Update"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2617
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2648
+#@ tgmpa
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2650
+#@ tgmpa
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2686
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2688
+#@ tgmpa
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2793
+#@ tgmpa
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:2819
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: assets/libraries/class-tgm-plugin-activation.php:2837
+#: assets/libraries/class-tgm-plugin-activation.php:400
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3033
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3367
+#, php-format
+#@ tgmpa
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3369
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3370
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3374
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3375
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3375
+#: assets/libraries/class-tgm-plugin-activation.php:3381
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3375
+#: assets/libraries/class-tgm-plugin-activation.php:3381
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3376
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3377
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3380
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3381
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3382
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: assets/libraries/class-tgm-plugin-activation.php:3383
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:21
+#, php-format
+#@ superlist
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:27
+#: comments.php:45
+#@ superlist
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:28
+#: comments.php:46
+#@ superlist
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:51
+#@ superlist
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+#: comments.php:56
+#, php-format
+#@ superlist
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Вы можете использовать <abbr title=\"HyperText Markup Language\">HTML</abbr> тэг и атрибуты: %s"
+
+#: comments.php:57
+#@ superlist
+msgid "Write a Comment"
+msgstr "Напишите комментарий"
+
+#: comments.php:59
+#@ superlist
+msgid "Comment"
+msgstr "Комментарий"
+
+#: comments.php:61
+#@ superlist
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:62
+#@ superlist
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:63
+#@ superlist
+msgid "Website"
+msgstr "Веб сайт"
+
+#: functions.php:104
+#@ superlist
+msgid "Main"
+msgstr "Главная"
+
+#: functions.php:115
+#@ superlist
+msgid "Primary"
+msgstr "Первичный"
+
+#: functions.php:116
+#@ superlist
+msgid "Dashboard Sidebar"
+msgstr "Информационная боковая панель"
+
+#: functions.php:117
+#@ superlist
+msgid "Header Topbar Left"
+msgstr ""
+
+#: functions.php:118
+#@ superlist
+msgid "Header Topbar Right"
+msgstr ""
+
+#: functions.php:119
+#@ superlist
+msgid "Top Fullwidth"
+msgstr ""
+
+#: functions.php:120
+#@ superlist
+msgid "Top"
+msgstr ""
+
+#: functions.php:121
+#@ superlist
+msgid "Content Top"
+msgstr ""
+
+#: functions.php:122
+#@ superlist
+msgid "Content Bottom"
+msgstr ""
+
+#: functions.php:123
+#@ superlist
+msgid "Bottom"
+msgstr ""
+
+#: functions.php:124
+#@ superlist
+msgid "Footer Top First"
+msgstr ""
+
+#: functions.php:125
+#@ superlist
+msgid "Footer Top Second"
+msgstr ""
+
+#: functions.php:126
+#@ superlist
+msgid "Footer Top Third"
+msgstr ""
+
+#: functions.php:127
+#@ superlist
+msgid "Footer Top Fourth"
+msgstr ""
+
+#: functions.php:128
+#@ superlist
+msgid "Footer First"
+msgstr ""
+
+#: functions.php:129
+#@ superlist
+msgid "Footer Second"
+msgstr ""
+
+#: functions.php:130
+#@ superlist
+msgid "Footer Bottom First"
+msgstr ""
+
+#: functions.php:131
+#@ superlist
+msgid "Footer Bottom Second"
+msgstr ""
+
+#: functions.php:381
+#@ superlist
+msgid "Superlist General"
+msgstr ""
+
+#: functions.php:386
+#@ superlist
+msgid "Logo"
+msgstr "Логотип"
+
+#: functions.php:389
+#@ superlist
+msgid "Logo displayed in header."
+msgstr "Лого отображено в header."
+
+#: functions.php:401
+#@ superlist
+msgid "Customizer"
+msgstr "Персонализация"
+
+#: functions.php:415
+#: widgets/templates/widget-simple-map-admin.php:76
+#@ superlist
+msgid "Style"
+msgstr "Стиль"
+
+#: functions.php:420
+#: templates/action-bar.php:46
+#@ superlist
+msgid "Blue Light"
+msgstr ""
+
+#: functions.php:421
+#: templates/action-bar.php:47
+#@ superlist
+msgid "Blue"
+msgstr "Синий"
+
+#: functions.php:422
+#@ superlist
+msgid "Blue dark"
+msgstr ""
+
+#: functions.php:423
+#@ superlist
+msgid "Blue gray"
+msgstr ""
+
+#: functions.php:424
+#: templates/action-bar.php:49
+#@ superlist
+msgid "Brown"
+msgstr ""
+
+#: functions.php:425
+#: templates/action-bar.php:53
+#@ superlist
+msgid "Green"
+msgstr ""
+
+#: functions.php:426
+#@ superlist
+msgid "Green dark"
+msgstr ""
+
+#: functions.php:427
+#: templates/action-bar.php:67
+#@ superlist
+msgid "Lime"
+msgstr ""
+
+#: functions.php:428
+#: templates/action-bar.php:55
+#@ superlist
+msgid "Magenta"
+msgstr ""
+
+#: functions.php:429
+#: templates/action-bar.php:56
+#@ superlist
+msgid "Orange"
+msgstr ""
+
+#: functions.php:430
+#: templates/action-bar.php:68
+#@ superlist
+msgid "Pink"
+msgstr ""
+
+#: functions.php:431
+#: templates/action-bar.php:60
+#@ superlist
+msgid "Purple"
+msgstr ""
+
+#: functions.php:432
+#: templates/action-bar.php:70
+#@ superlist
+msgid "Purple Dark"
+msgstr ""
+
+#: functions.php:433
+#@ superlist
+msgid "Mint"
+msgstr ""
+
+#: functions.php:434
+#: templates/action-bar.php:61
+#: templates/action-bar.php:62
+#@ superlist
+msgid "Red"
+msgstr ""
+
+#: functions.php:435
+#: templates/action-bar.php:63
+#@ superlist
+msgid "Turquoise"
+msgstr ""
+
+#: functions.php:437
+#@ superlist
+msgid "Check the documentation to learn how to compile custom color."
+msgstr ""
+
+#: functions.php:448
+#@ superlist
+msgid "Layout"
+msgstr ""
+
+#: functions.php:453
+#: templates/action-bar.php:17
+#@ superlist
+msgid "Wide"
+msgstr ""
+
+#: functions.php:454
+#: templates/action-bar.php:18
+#@ superlist
+msgid "Boxed"
+msgstr ""
+
+#: functions.php:466
+#@ superlist
+msgid "Header"
+msgstr ""
+
+#: functions.php:471
+#: templates/action-bar.php:27
+#@ superlist
+msgid "Sticky"
+msgstr ""
+
+#: functions.php:472
+#: templates/action-bar.php:26
+#@ superlist
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:484
+#@ superlist
+msgid "Submenu"
+msgstr "Подменю"
+
+#: functions.php:489
+#: templates/action-bar.php:35
+#@ superlist
+msgid "Dark"
+msgstr ""
+
+#: functions.php:490
+#: templates/action-bar.php:36
+#@ superlist
+msgid "Light"
+msgstr ""
+
+#: functions.php:501
+#@ superlist
+msgid "Action Button Text"
+msgstr ""
+
+#: functions.php:504
+#@ superlist
+msgid "Text is displayed when button is hovered."
+msgstr ""
+
+#: functions.php:510
+#@ superlist
+msgid "Action Button Page"
+msgstr ""
+
+#: functions.php:515
+#@ superlist
+msgid "Page where the action button will point to."
+msgstr ""
+
+#: functions.php:527
+#@ superlist
+msgid "Show print button in listing detail"
+msgstr ""
+
+#: functions.php:555
+#@ superlist
+msgid "Not set"
+msgstr "Не указано"
+
+#: functions.php:716
+#@ superlist
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: functions.php:717
+#@ superlist
+msgid "Next"
+msgstr "Следующий"
+
+#: header.php:89
+#@ superlist
+msgid "Toggle navigation"
+msgstr ""
+
+#: searchform.php:15
+#@ superlist
+msgid "Search ..."
+msgstr "Поиск ..."
+
+#: templates/action-bar.php:14
+#@ superlist
+msgid "Choose Page Layout"
+msgstr "Выбрать расположение страницы"
+
+#: templates/action-bar.php:23
+#@ superlist
+msgid "Header Position"
+msgstr "Позиция главного блока"
+
+#: templates/action-bar.php:32
+#@ superlist
+msgid "Submenu Style"
+msgstr "Стиль подменю"
+
+#: templates/action-bar.php:41
+#@ superlist
+msgid "Color combination"
+msgstr ""
+
+#: templates/action-bar.php:48
+#@ superlist
+msgid "Blue Dark"
+msgstr ""
+
+#: templates/action-bar.php:54
+#@ superlist
+msgid "Green Dark"
+msgstr ""
+
+#: templates/action-bar.php:69
+#@ superlist
+msgid "Blue Gray"
+msgstr ""
+
+#: templates/banner-types/video.php:6
+#@ superlist
+msgid "Your browser does not support the video html tag."
+msgstr "Ваш браузер не поддерживает видео тэг"
+
+#: templates/content-listing-banner-info.php:40
+#@ superlist
+msgid "Reduced Price"
+msgstr "Пониженная цена"
+
+#: templates/content-listing-banner-info.php:40
+#@ superlist
+msgid "Price"
+msgstr "Цена "
+
+#: templates/content-none.php:13
+#@ superlist
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но по вашему запросу нет результатов. Пожалуйста попробуйте снова "
+
+#: templates/content-post.php:17
+#: templates/content.php:25
+#@ superlist
+msgid "By"
+msgstr "от"
+
+#: templates/content-post.php:34
+#@ superlist
+msgid "Post Pages:"
+msgstr "Страницы публикаций"
+
+#: templates/content-post.php:43
+#@ superlist
+msgid "Tags"
+msgstr "Тэги"
+
+#: templates/content.php:15
+#@ superlist
+msgid "View"
+msgstr "Просмотр"
+
+#: templates/content.php:31
+#@ superlist
+msgid "Read more"
+msgstr "Подробнее"
+
+#: templates/document-title.php:18
+#@ superlist
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: templates/document-title.php:20
+#@ superlist
+msgid "Search for"
+msgstr "Поиск "
+
+#: templates/misc/comment.php:25
+#@ superlist
+msgid "Reply"
+msgstr "Ответить"
+
+#: templates/misc/comment.php:38
+#@ superlist
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий просматривает модератор"
+
+#: widgets/templates/widget-call-to-action-admin.php:17
+#@ superlist
+msgid "Text"
+msgstr "Текст"
+
+#: widgets/templates/widget-call-to-action-admin.php:30
+#@ superlist
+msgid "Button Text"
+msgstr "Кнопка с текстом"
+
+#: widgets/templates/widget-call-to-action-admin.php:43
+#@ superlist
+msgid "Button Link"
+msgstr "Ссылка"
+
+#: widgets/templates/widget-simple-map-admin.php:19
+#@ superlist
+msgid "Latitude"
+msgstr "Широта"
+
+#: widgets/templates/widget-simple-map-admin.php:32
+#@ superlist
+msgid "Longitude"
+msgstr "Долгота"
+
+#: widgets/templates/widget-simple-map-admin.php:45
+#@ superlist
+msgid "Zoom"
+msgstr "Увеличить"
+
+#: widgets/templates/widget-simple-map-admin.php:60
+#@ superlist
+msgid "Height in pixels"
+msgstr "Высота в пикс."
+
+#: widgets/templates/widget-simple-map-admin.php:80
+#@ superlist
+msgid "Default"
+msgstr "По умолчанию"
+
+#: widgets/templates/widget-video-cover-admin.php:26
+#@ superlist
+msgid "Title"
+msgstr "Заглавие"
+
+#: widgets/templates/widget-video-cover-admin.php:40
+#@ superlist
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: widgets/templates/widget-video-cover-admin.php:54
+#@ superlist
+msgid "Height"
+msgstr "Высота"
+
+#: widgets/templates/widget-video-cover-admin.php:68
+#@ superlist
+msgid "Preset Image URL"
+msgstr "Предустановленная URL изображения"
+
+#: widgets/templates/widget-video-cover-admin.php:82
+#@ superlist
+msgid "Overlay opacity"
+msgstr "Непрозрачность"
+
+#: widgets/templates/widget-video-cover-admin.php:96
+#@ superlist
+msgid "Video MP4"
+msgstr ""
+
+#: widgets/templates/widget-video-cover-admin.php:110
+#@ superlist
+msgid "Video OGG"
+msgstr ""
+
+#: widgets/templates/widget-video-cover-admin.php:124
+#@ superlist
+msgid "Classes"
+msgstr "Классы"
+
+#: widgets/templates/widget-video-cover-admin.php:133
+#@ superlist
+msgid "Additional classes appended to body class and separated by , e.g. <i>header-transparent, listing-slider-append-top</i>"
+msgstr "Дополнительные классы добавляются к классу тела и разделяются по e.g. <i>header-transparent, listing-slider-append-top</i>"
+
+#: widgets/templates/widget-video-cover-admin.php:145
+#@ superlist
+msgid "Filter"
+msgstr "Фильтр"
+
+#: widgets/templates/widget-video-cover-admin.php:152
+#@ superlist
+msgid "Filter Button Text"
+msgstr "Кнопка Фильтр текста"
+
+#: widgets/templates/widget-video-cover-admin.php:163
+#@ superlist
+msgid "Input titles"
+msgstr "Ввод заглавия"
+
+#: widgets/templates/widget-video-cover-admin.php:174
+#@ superlist
+msgid "Labels"
+msgstr "Этикетки"
+
+#: widgets/templates/widget-video-cover-admin.php:186
+#@ superlist
+msgid "Placeholders"
+msgstr "Заполнители"
+
+#: widgets/templates/widget-video-cover-admin.php:191
+#@ superlist
+msgid "Filter Fields"
+msgstr "Поля фильтра"
+
+#: widgets/widget-call-to-action.php:29
+#@ superlist
+msgid "Call to action"
+msgstr "Призыв к действию"
+
+#: widgets/widget-call-to-action.php:31
+#@ superlist
+msgid "Call to action widget."
+msgstr "Виджет призыва"
+
+#: widgets/widget-simple-map.php:29
+#@ superlist
+msgid "Simple Map"
+msgstr "Карта"
+
+#: widgets/widget-simple-map.php:31
+#@ superlist
+msgid "Displays 1 place in the map."
+msgstr "Отображает 1 место на карте"
+
+#: widgets/widget-video-cover.php:29
+#@ superlist
+msgid "Video Cover"
+msgstr "Видео Обложка"
+
+#: widgets/widget-video-cover.php:31
+#@ superlist
+msgid "Displays small filter with video or image background."
+msgstr "Отображает маленький фильтр с видео или фоновым изображением."
+

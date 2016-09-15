@@ -1,0 +1,87 @@
+Version: 0.1.0
+Release date: 2015-11-03
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2015-11-13
+What's new:
+- markers fix
+
+
+Version: 0.2.0
+Release date: 2015-11-26
+What's new:
+- support for polygon area
+
+
+Version: 0.2.1
+Release date: 2015-12-09
+What's new:
+- removal of touch events
+- iOS close infowindow fix
+
+
+Version: 0.2.2
+Release date: 2016-01-18
+What's new:
+- pan to fix
+- post ID data in map widget
+
+
+Version: 0.2.3
+Release date: 2016-03-16
+What's new:
+- if map has a toggle, it is open if filter is set (and wasn't closed before by user)
+- removed .po and .mo files and created .pot file
+- fixed missing translation strings and phrases
+- Slovak translation
+- banner map zoom fix
+
+
+Version: 0.3.0
+Release date: 2016-03-29
+What's new:
+- PHP 7 support
+- Italian translation
+
+
+Version: 0.4.0
+Release date: 2016-04-07
+What's new:
+- Spanish translation
+
+
+Version: 0.5.0
+Release date: 2016-04-18
+What's new:
+- inventor_google_map_styles WP filter
+- French translation
+- geocode request over HTTPS
+- mapescape
+
+
+Version: 0.6.0
+Release date: 2016-05-01
+What's new:
+- support for widget visibility
+- map reloads markers when geocomplete location is changed
+- support for filter params without filter-prefix
+- fixed missing translation fields
+
+
+Version: 0.7.0
+Release date: 2016-05-20
+What's new:
+- German translation
+- map takes bounds argument
+- new marker style: thumbnail
+
+
+Version: 0.8.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+- mapescape CSS fix
+- realoading of Google Map location fix

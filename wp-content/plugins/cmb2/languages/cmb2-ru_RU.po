@@ -1,0 +1,648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CMB2 v2.2.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/cmb2\n"
+"POT-Creation-Date: 2015-07-29 15:52:03+00:00\n"
+"PO-Revision-Date: 2016-08-19 08:00:31+0000\n"
+"Last-Translator: Feliks <view@tut.by>\n"
+"Language-Team: Russian (Russia) (http://www.transifex.com/wp-translations/cmb2/language/ru_RU/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: example-functions.php:80
+#@ cmb2
+msgid "Test Metabox"
+msgstr "Блок"
+
+#: example-functions.php:91
+#: example-functions.php:383
+#@ cmb2
+msgid "Test Text"
+msgstr "Текстовое поле"
+
+#: example-functions.php:92
+#: example-functions.php:104
+#: example-functions.php:112
+#: example-functions.php:120
+#: example-functions.php:129
+#: example-functions.php:137
+#: example-functions.php:152
+#: example-functions.php:160
+#: example-functions.php:168
+#: example-functions.php:185
+#: example-functions.php:194
+#: example-functions.php:207
+#: example-functions.php:214
+#: example-functions.php:221
+#: example-functions.php:235
+#: example-functions.php:248
+#: example-functions.php:261
+#: example-functions.php:273
+#: example-functions.php:282
+#: example-functions.php:290
+#: example-functions.php:299
+#: example-functions.php:306
+#: example-functions.php:320
+#: example-functions.php:384
+#: example-functions.php:475
+#: example-functions.php:483
+#: example-functions.php:490
+#: example-functions.php:497
+#: example-functions.php:504
+#: example-functions.php:511
+#: example-functions.php:518
+#: example-functions.php:545
+#: example-functions.php:553
+#: example-functions.php:560
+#: example-functions.php:597
+#@ cmb2
+msgid "field description (optional)"
+msgstr "описание поля (необязательно)"
+
+#: example-functions.php:103
+#@ cmb2
+msgid "Test Text Small"
+msgstr "Маленькое текстовое поле"
+
+#: example-functions.php:111
+#@ cmb2
+msgid "Test Text Medium"
+msgstr "Среднее текстовое поле"
+
+#: example-functions.php:119
+#@ cmb2
+msgid "Website URL"
+msgstr "URL Сайта"
+
+#: example-functions.php:128
+#@ cmb2
+msgid "Test Text Email"
+msgstr "Поле с Email"
+
+#: example-functions.php:136
+#@ cmb2
+msgid "Test Time"
+msgstr "Поле с временем"
+
+#: example-functions.php:144
+#: example-functions.php:145
+#@ cmb2
+msgid "Time zone"
+msgstr "Часовой пояс"
+
+#: example-functions.php:151
+#@ cmb2
+msgid "Test Date Picker"
+msgstr "Поле выбора даты"
+
+#: example-functions.php:159
+#@ cmb2
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr "Поле выбора даты (в формате UNIX)"
+
+#: example-functions.php:167
+#@ cmb2
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr "Поле выбора даты/времени (в формате UNIX)"
+
+#: example-functions.php:184
+#@ cmb2
+msgid "Test Money"
+msgstr "Поле для денежных значений"
+
+#: example-functions.php:193
+#@ cmb2
+msgid "Test Color Picker"
+msgstr "Поле выбора цвета"
+
+#: example-functions.php:206
+#@ cmb2
+msgid "Test Text Area"
+msgstr "Текстовая область"
+
+#: example-functions.php:213
+#@ cmb2
+msgid "Test Text Area Small"
+msgstr "Маленькая текстовая область"
+
+#: example-functions.php:220
+#@ cmb2
+msgid "Test Text Area for Code"
+msgstr "Текстовая область для кода"
+
+#: example-functions.php:227
+#@ cmb2
+msgid "Test Title Weeeee"
+msgstr "Пример заголовка"
+
+#: example-functions.php:228
+#@ cmb2
+msgid "This is a title description"
+msgstr "Это описание заголовка"
+
+#: example-functions.php:234
+#@ cmb2
+msgid "Test Select"
+msgstr "Пример выпадающего списка"
+
+#: example-functions.php:240
+#: example-functions.php:253
+#: example-functions.php:265
+#@ cmb2
+msgid "Option One"
+msgstr "Первая опция"
+
+#: example-functions.php:241
+#: example-functions.php:254
+#: example-functions.php:266
+#@ cmb2
+msgid "Option Two"
+msgstr "Вторая опция"
+
+#: example-functions.php:242
+#: example-functions.php:255
+#: example-functions.php:267
+#@ cmb2
+msgid "Option Three"
+msgstr "Третья опция"
+
+#: example-functions.php:247
+#@ cmb2
+msgid "Test Radio inline"
+msgstr "Переключатели в ряд"
+
+#: example-functions.php:260
+#@ cmb2
+msgid "Test Radio"
+msgstr "Переключатели"
+
+#: example-functions.php:272
+#@ cmb2
+msgid "Test Taxonomy Radio"
+msgstr "Переключатели таксономии"
+
+#: example-functions.php:281
+#@ cmb2
+msgid "Test Taxonomy Select"
+msgstr "Выпадающий список с таксономиями"
+
+#: example-functions.php:289
+#@ cmb2
+msgid "Test Taxonomy Multi Checkbox"
+msgstr "Мультивыбор таксономии"
+
+#: example-functions.php:298
+#@ cmb2
+msgid "Test Checkbox"
+msgstr "Флажок"
+
+#: example-functions.php:305
+#@ cmb2
+msgid "Test Multi Checkbox"
+msgstr "Множество флажков"
+
+#: example-functions.php:311
+#@ cmb2
+msgid "Check One"
+msgstr "Первое значение"
+
+#: example-functions.php:312
+#@ cmb2
+msgid "Check Two"
+msgstr "Второе значение"
+
+#: example-functions.php:313
+#@ cmb2
+msgid "Check Three"
+msgstr "Третье значение"
+
+#: example-functions.php:319
+#@ cmb2
+msgid "Test wysiwyg"
+msgstr "Визуальный редактор"
+
+#: example-functions.php:327
+#@ cmb2
+msgid "Test Image"
+msgstr "Тестовое изображение"
+
+#: example-functions.php:328
+#@ cmb2
+msgid "Upload an image or enter a URL."
+msgstr "Загрузите изображение или введите URL"
+
+#: example-functions.php:334
+#@ cmb2
+msgid "Multiple Files"
+msgstr "Несколько файлов"
+
+#: example-functions.php:335
+#@ cmb2
+msgid "Upload or add multiple images/attachments."
+msgstr "Загрузите или добавьте несколько изображений/вложений"
+
+#: example-functions.php:342
+#@ cmb2
+msgid "oEmbed"
+msgstr "Вставка объектов"
+
+#: example-functions.php:343
+#@ cmb2
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
+msgstr "Введите адрес youtube, twitter или instagram. Поддерживаемые сервисы указаны на <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
+
+#: example-functions.php:374
+#@ cmb2
+msgid "About Page Metabox"
+msgstr "Блок страницы \"О нас\""
+
+#: example-functions.php:403
+#@ cmb2
+msgid "Repeating Field Group"
+msgstr "Повторяемая группа полей"
+
+#: example-functions.php:411
+#@ cmb2
+msgid "Generates reusable form entries"
+msgstr "Генерирует повторно используемые формы"
+
+#: example-functions.php:413
+#@ cmb2
+msgid "Entry {#}"
+msgstr "Запись {#}"
+
+#: example-functions.php:414
+#@ cmb2
+msgid "Add Another Entry"
+msgstr "Добавить еще одну Запись"
+
+#: example-functions.php:415
+#@ cmb2
+msgid "Remove Entry"
+msgstr "Удалить Запись"
+
+#: example-functions.php:428
+#@ cmb2
+msgid "Entry Title"
+msgstr "Заголовок записи"
+
+#: example-functions.php:435
+#@ cmb2
+msgid "Description"
+msgstr "Описание"
+
+#: example-functions.php:436
+#@ cmb2
+msgid "Write a short description for this entry"
+msgstr "Введите короткое описание для этой записи"
+
+#: example-functions.php:442
+#@ cmb2
+msgid "Entry Image"
+msgstr "Изображение записи"
+
+#: example-functions.php:448
+#@ cmb2
+msgid "Image Caption"
+msgstr "Подпись"
+
+#: example-functions.php:467
+#@ cmb2
+msgid "User Profile Metabox"
+msgstr "Блок профайла пользователя"
+
+#: example-functions.php:474
+#: example-functions.php:544
+#@ cmb2
+msgid "Extra Info"
+msgstr "Дополнительная информация"
+
+#: example-functions.php:482
+#@ cmb2
+msgid "Avatar"
+msgstr "Аватар"
+
+#: example-functions.php:489
+#@ cmb2
+msgid "Facebook URL"
+msgstr "URL-адрес Facebook"
+
+#: example-functions.php:496
+#@ cmb2
+msgid "Twitter URL"
+msgstr "Адрес Twitter"
+
+#: example-functions.php:503
+#@ cmb2
+msgid "Google+ URL"
+msgstr "URL-адрес Google+ "
+
+#: example-functions.php:510
+#@ cmb2
+msgid "Linkedin URL"
+msgstr "Адрес LinkedIn"
+
+#: example-functions.php:517
+#@ cmb2
+msgid "User Field"
+msgstr "Пользовательское поле"
+
+#: example-functions.php:581
+#@ cmb2
+msgid "Theme Options Metabox"
+msgstr "Блок опций темы"
+
+#: example-functions.php:596
+#@ cmb2
+msgid "Site Background Color"
+msgstr "Цвет фона сайта"
+
+#: includes/CMB2.php:122
+#@ cmb2
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr "﻿Конфигурация Metabox необходимо иметь параметр ID"
+
+#: includes/CMB2.php:375
+#@ cmb2
+msgid "Click to toggle"
+msgstr "﻿Нажмите, чтобы переключить"
+
+#: includes/CMB2_Ajax.php:65
+#@ cmb2
+msgid "Please Try Again"
+msgstr "Пожалуйста, попробуйте еще раз"
+
+#: includes/CMB2_Ajax.php:155
+#@ cmb2
+msgid "Remove Embed"
+msgstr "Убрать встроенный объект"
+
+#: includes/CMB2_Ajax.php:159
+#, php-format
+#@ cmb2
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Не найдено результатов для %s. Узнайте больше на"
+
+#: includes/CMB2_Field.php:1030
+#@ cmb2
+msgid "Add Group"
+msgstr "Добавить группу"
+
+#: includes/CMB2_Field.php:1031
+#@ cmb2
+msgid "Remove Group"
+msgstr "Убрать группу"
+
+#: includes/CMB2_Field.php:1053
+#: includes/CMB2_Field.php:1057
+#@ cmb2
+msgid "None"
+msgstr "Нет"
+
+#: includes/CMB2_JS.php:86
+#: includes/CMB2_JS.php:119
+#@ cmb2
+msgid "Clear"
+msgstr "Очистить"
+
+#: includes/CMB2_JS.php:87
+#@ cmb2
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/CMB2_JS.php:88
+#@ cmb2
+msgid "Select Color"
+msgstr "Выбрать цвет"
+
+#: includes/CMB2_JS.php:89
+#@ cmb2
+msgid "Current Color"
+msgstr "Текущий цвет"
+
+#: includes/CMB2_JS.php:110
+#@ cmb2
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Воскресенье, Понедельник, Вторник, Среда, Четверг, Пятница, Суббота"
+
+#: includes/CMB2_JS.php:111
+#@ cmb2
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Вс, Пн, Вт, Ср, Чт, Пт, Сб"
+
+#: includes/CMB2_JS.php:112
+#@ cmb2
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Вск, Пон, Втр,  Срд, Чтв, Птн, Сбт"
+
+#: includes/CMB2_JS.php:113
+#@ cmb2
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr "Январь, Февраль, Март, Апрель, Май, Июнь, Июль, Август, Сентябрь, Октябрь, Ноябрь, Декабрь"
+
+#: includes/CMB2_JS.php:114
+#@ cmb2
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Янв, Фев, Мар, Апр, Май, Июн, Июл, Авг, Сен, Окт, Ноя, Дек"
+
+#: includes/CMB2_JS.php:115
+#@ cmb2
+msgid "Next"
+msgstr "Далее"
+
+#: includes/CMB2_JS.php:116
+#@ cmb2
+msgid "Prev"
+msgstr "Назад"
+
+#: includes/CMB2_JS.php:117
+#@ cmb2
+msgid "Today"
+msgstr "Сегодня"
+
+#: includes/CMB2_JS.php:118
+#: includes/CMB2_JS.php:128
+#@ cmb2
+msgid "Done"
+msgstr "Готово"
+
+#: includes/CMB2_JS.php:122
+#@ cmb2
+msgid "Choose Time"
+msgstr "Выберите время"
+
+#: includes/CMB2_JS.php:123
+#@ cmb2
+msgid "Time"
+msgstr "Время"
+
+#: includes/CMB2_JS.php:124
+#@ cmb2
+msgid "Hour"
+msgstr "Час"
+
+#: includes/CMB2_JS.php:125
+#@ cmb2
+msgid "Minute"
+msgstr "Минута"
+
+#: includes/CMB2_JS.php:126
+#@ cmb2
+msgid "Second"
+msgstr "Секунда"
+
+#: includes/CMB2_JS.php:127
+#@ cmb2
+msgid "Now"
+msgstr "Сейчас"
+
+#: includes/CMB2_JS.php:135
+#@ cmb2
+msgid "Use this file"
+msgstr "Использовать этот файл"
+
+#: includes/CMB2_JS.php:136
+#@ cmb2
+msgid "Use these files"
+msgstr "Использовать эти файлы"
+
+#: includes/CMB2_JS.php:137
+#: includes/CMB2_Types.php:1021
+#@ cmb2
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: includes/CMB2_JS.php:138
+#: includes/CMB2_Types.php:357
+#: includes/CMB2_Types.php:1040
+#@ cmb2
+msgid "Remove"
+msgstr "Убрать"
+
+#: includes/CMB2_JS.php:139
+#: includes/CMB2_Types.php:1035
+#@ cmb2
+msgid "File:"
+msgstr "Файл:"
+
+#: includes/CMB2_JS.php:140
+#: includes/CMB2_Types.php:1038
+#@ cmb2
+msgid "Download"
+msgstr "Скачать"
+
+#: includes/CMB2_JS.php:141
+#@ cmb2
+msgid "Select / Deselect All"
+msgstr "Выбрать/сбросить все"
+
+#: includes/CMB2_Types.php:298
+#@ cmb2
+msgid "Add Row"
+msgstr "Добавить строку"
+
+#: includes/CMB2_Types.php:768
+#: includes/CMB2_Types.php:816
+#@ cmb2
+msgid "No terms"
+msgstr "Нет категорий"
+
+#: includes/CMB2_Types.php:884
+#@ cmb2
+msgid "Add or Upload Files"
+msgstr "Добавить или загрузить файлы"
+
+#: includes/CMB2_Types.php:945
+#@ cmb2
+msgid "Add or Upload File"
+msgstr "Добавить или загрузить файл"
+
+#: includes/helper-functions.php:250
+#@ cmb2
+msgid "Save"
+msgstr "Сохранить"
+
+#. translators: plugin header field 'Name'
+#: init.php:0
+#@ cmb2
+msgid "CMB2"
+msgstr "CMB2"
+
+#. translators: plugin header field 'PluginURI'
+#: init.php:0
+#@ cmb2
+msgid "https://github.com/WebDevStudios/CMB2"
+msgstr "https://github.com/WebDevStudios/CMB2"
+
+#. translators: plugin header field 'Description'
+#: init.php:0
+#@ cmb2
+msgid "CMB2 will create metaboxes and forms with custom fields that will blow your mind."
+msgstr "CMB2 позволяет создавать блоки и формы с собственными полями"
+
+#. translators: plugin header field 'Author'
+#: init.php:0
+#@ cmb2
+msgid "WebDevStudios"
+msgstr "WebDevStudios"
+
+#. translators: plugin header field 'AuthorURI'
+#: init.php:0
+#@ cmb2
+msgid "http://webdevstudios.com"
+msgstr "http://webdevstudios.com"
+
+#: includes/CMB2_JS.php:109
+#@ cmb2
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr "dd.mm.yy"
+
+#: example-functions.php:537
+#@ cmb2
+msgid "Category Metabox"
+msgstr ""
+
+#: example-functions.php:552
+#@ cmb2
+msgid "Term Image"
+msgstr ""
+
+#: example-functions.php:559
+#@ cmb2
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: includes/CMB2_JS.php:129
+#@ cmb2
+msgctxt "Valid formatting string, as per http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: includes/CMB2_hookup.php:120
+#@ cmb2
+msgid "Term Metadata is a WordPress > 4.4 feature. Please upgrade your WordPress install."
+msgstr ""
+
+#: includes/CMB2_hookup.php:124
+#@ cmb2
+msgid "Term metaboxes configuration requires a 'taxonomies' parameter"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: init.php:0
+#@ cmb2
+msgid "2.2.1"
+msgstr ""
+

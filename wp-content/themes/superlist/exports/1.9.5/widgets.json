@@ -1,0 +1,666 @@
+[
+  {
+    "sidebar-1":[
+      "coupon_detail-2",
+      "coupon_listings-2",
+      "listing_author-2",
+      "listing_details-2",
+      "opening_hours-2",
+      "listing_inquire-2",
+      "filter-4",
+      "listings-3"
+    ],
+    "dashboard":[
+      "text-12",
+      "nav_menu-7",
+      "text-13"
+    ],
+    "header-topbar-left":[
+      "text-6",
+      "text-8"
+    ],
+    "header-topbar-right":[
+      "nav_menu-5",
+      "nav_menu-4"
+    ],
+    "top-fullwidth":[
+      "google-map-2",
+      "google-map-3",
+      "google-map-4",
+      "listing_slider-2",
+      "video_cover-3",
+      "video_cover-2"
+    ],
+    "top":[
+      "partners-3",
+      "listings-2",
+      "inventor_boxes-2",
+      "faq-2",
+      "listings-4",
+      "inventor_boxes-4",
+      "listing_categories-2",
+      "testimonials-3",
+      "pricing-2"
+    ],
+    "content-top":[
+      "simple_map-3",
+      "filter-3",
+      "text-11"
+    ],
+    "bottom":[
+      "call_to_action-2"
+    ],
+    "footer-top-first":[
+      "inventor_boxes-3"
+    ],
+    "footer-top-second":[
+      "listings-5"
+    ],
+    "footer-top-third":[
+      "text-9"
+    ],
+    "footer-top-fourth":[
+      "nav_menu-6"
+    ],
+    "footer-first":[
+      "nav_menu-3"
+    ],
+    "footer-second":[
+      "search-2"
+    ],
+    "footer-bottom-first":[
+      "text-4"
+    ],
+    "footer-bottom-second":[
+      "nav_menu-2"
+    ]
+  },
+  {
+    "coupon_detail":{
+      "2":{
+        "title":""
+      },
+      "_multiwidget":1
+    },
+    "coupon_listings":{
+      "2":{
+        "title":"Recent Coupons",
+        "count":"Recent Coupons"
+      },
+      "_multiwidget":1
+    },
+    "listing_author":{
+      "2":{
+        "title":"",
+        "background_color":"",
+        "background_image":"",
+        "classes":""
+      },
+      "_multiwidget":1
+    },
+    "listing_details":{
+      "2":{
+        "title":"",
+        "background_color":"",
+        "background_image":"",
+        "classes":""
+      },
+      "_multiwidget":1
+    },
+    "opening_hours":{
+      "2":{
+        "title":"",
+        "background_color":"",
+        "background_image":"",
+        "classes":""
+      },
+      "_multiwidget":1
+    },
+    "listing_inquire":{
+      "2":{
+        "title":"Inquire Form",
+        "show_name":"on",
+        "show_email":"on",
+        "show_subject":"on",
+        "show_date":"on",
+        "show_message":"on",
+        "receive_admin":"on",
+        "receive_author":"on",
+        "background_color":"",
+        "background_image":"",
+        "classes":""
+      },
+      "_multiwidget":1
+    },
+    "filter":{
+      "4":{
+        "title":"Filter",
+        "button_text":"Filter",
+        "input_titles":"labels",
+        "sort":",title,description,keyword,distance,price,rating,geolocation,locations,listing_categories,featured,reduced",
+        "hide_keyword":"on",
+        "hide_distance":"on",
+        "hide_geolocation":"on",
+        "hide_locations":"on",
+        "hide_listing_categories":"on",
+        "hide_listing_type":"on",
+        "background_color":"",
+        "background_image":"",
+        "classes":""
+      },
+      "3":{
+        "title":"",
+        "button_text":"Filter",
+        "sorting_options":"on",
+        "input_titles":"placeholders",
+        "result_numbers_enabled":"1",
+        "sort":"",
+        "hide_listing_type":"on",
+        "hide_title":"on",
+        "hide_description":"on",
+        "hide_distance":"on",
+        "hide_price":"on",
+        "hide_geolocation":"on",
+        "hide_featured":"on",
+        "hide_reduced":"on",
+        "hide_rating":"on",
+        "background_color":"",
+        "background_image":"",
+        "padding_bottom":"1",
+        "classes":""
+      },
+      "_multiwidget":1
+    },
+    "listings":{
+      "3":{
+        "title":"Recent Listings",
+        "description":"",
+        "count":"5",
+        "ids":"",
+        "per_row":"1",
+        "order":"on",
+        "attribute":"on",
+        "display":"small",
+        "background_color":"",
+        "background_image":"",
+        "classes":""
+      },
+      "2":{
+        "title":"<strong>FEATURED<\/strong> LISTINGS",
+        "description":"List of most interesting listings in our directory submitted by our users. <br>\r\nCheck whats going on in the city now.",
+        "count":"8",
+        "ids":"",
+        "per_row":"4",
+        "order":"rand",
+        "attribute":"featured",
+        "display":"box",
+        "background_color":"",
+        "background_image":"",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":"widget-border-top"
+      },
+      "4":{
+        "title":"<strong>HAND PICKED<\/strong> by Superlist",
+        "description":"Check out the best places & events in the city. Each one is worth of visiting. Experience which you never forget.",
+        "count":"4",
+        "ids":"582,668,665,672",
+        "per_row":"1",
+        "order":"ids",
+        "attribute":"on",
+        "display":"masonry",
+        "background_color":"",
+        "background_image":"http:\/\/preview.byaviators.com\/theme\/superlist\/wp-content\/uploadz\/2015\/10\/widget-background.jpg",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":""
+      },
+      "5":{
+        "title":"RECENT <strong>LISTINGS<\/strong>",
+        "description":"",
+        "count":"4",
+        "ids":"",
+        "per_row":"1",
+        "order":"on",
+        "attribute":"on",
+        "display":"small",
+        "background_color":"",
+        "background_image":"",
+        "classes":""
+      },
+      "_multiwidget":1
+    },
+    "text":{
+      "12":{
+        "title":"Progress",
+        "text":"[inventor_submission_steps]",
+        "filter":false
+      },
+      "13":{
+        "title":"Membership",
+        "text":"[inventor_package_info]",
+        "filter":false
+      },
+      "6":{
+        "title":"",
+        "text":"<i class=\"fa fa-star-o\"><\/i> Superlist - Directory WordPress Theme",
+        "filter":false
+      },
+      "8":{
+        "title":"",
+        "text":"[inventor_currencies]",
+        "filter":false
+      },
+      "11":{
+        "title":"",
+        "text":"<div class=\"center\" style=\"margin-bottom:60px\"><a target=\"_blank\" href=\"http:\/\/themeforest.net\/item\/profession-job-template\/12944013?ref=aviators\"><img src=\"http:\/\/preview.byaviators.com\/theme\/superlist\/wp-content\/uploads\/2015\/10\/banner-728x90.png\" alt=\"\"><\/a><\/div>",
+        "filter":false
+      },
+      "9":{
+        "title":"[strong]CONTACT[\/strong] INFORMATION",
+        "text":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonum.  \r\n<dl>\r\n<dt><i class=\"fa fa-map\"><\/i> 795 South Park Avenue<\/dt><dd>Melbourne, Australia<\/dd>\r\n<dt><i class=\"fa fa-phone\"><\/i> +440 875369208<\/dt><dd>support@sitename.com<\/dd>\r\n<dt><i class=\"fa fa-clock-o\"><\/i> Monday - Friday<\/dt><dd>9:00 - 17:00<\/dd>\r\n<\/dl>",
+        "filter":false
+      },
+      "4":{
+        "title":"",
+        "text":"&copy; 2015 All rights reserved. Created by <a href=\"http:\/\/themeforest.net\/user\/aviators\/portfolio\">Aviators<\/a>.",
+        "filter":false
+      },
+      "_multiwidget":1
+    },
+    "nav_menu":{
+      "7":{
+        "title":"Navigation",
+        "nav_menu":"dashboard-menu"
+      },
+      "5":{
+        "nav_menu":"header-topbar-anonymous"
+      },
+      "4":{
+        "nav_menu":"header-topbar-authenticated"
+      },
+      "6":{
+        "title":"QUICK [strong]LINKS[\/strong]",
+        "nav_menu":"quick-links"
+      },
+      "3":{
+        "nav_menu":"footer-menu"
+      },
+      "2":{
+        "nav_menu":"social-menu"
+      },
+      "_multiwidget":1
+    },
+    "google-map":{
+      "2":{
+        "title":"Front Page",
+        "latitude":"40.716775",
+        "longitude":"-73.997580",
+        "max_pins":"",
+        "zoom":"11",
+        "grid_size":"50",
+        "height":"500px",
+        "classes":"",
+        "body_classes":"",
+        "button_text":"Filter Now",
+        "style":"superlist",
+        "filter":"on",
+        "live_filtering":"on",
+        "toggle_default":"open",
+        "map_types":"on",
+        "map_zoom":"on",
+        "map_geolocation":"on",
+        "marker_style":"inventor-poi",
+        "input_titles":"placeholders",
+        "orderby":"on",
+        "sort":",geolocation,distance,keyword,listing_categories,title,description,price,featured,reduced,rating,locations",
+        "hide_title":"on",
+        "hide_description":"on",
+        "hide_price":"on",
+        "hide_featured":"on",
+        "hide_reduced":"on",
+        "hide_rating":"on",
+        "hide_locations":"on",
+        "hide_listing_type":"on"
+      },
+      "3":{
+        "title":"Listing Post Types",
+        "latitude":"40.716775",
+        "longitude":"-73.997580",
+        "max_pins":"",
+        "zoom":"12",
+        "grid_size":"60",
+        "height":"320px",
+        "classes":"",
+        "body_classes":"",
+        "button_text":"",
+        "style":"superlist",
+        "show_all_markers":"on",
+        "show_toggle":"on",
+        "toggle_default":"open",
+        "intercept_filter":"on",
+        "intercept_post_type":"on",
+        "map_types":"on",
+        "map_zoom":"on",
+        "map_geolocation":"on",
+        "marker_style":"simple",
+        "input_titles":"labels",
+        "orderby":"on",
+        "sort":"",
+        "hide_listing_type":"on"
+      },
+      "4":{
+        "title":"Taxonomy & Abstract Listing",
+        "latitude":"40.716775",
+        "longitude":"-73.997580",
+        "max_pins":"",
+        "zoom":"12",
+        "grid_size":"60",
+        "height":"320px",
+        "button_text":"",
+        "style":"superlist",
+        "show_all_markers":"on",
+        "show_toggle":"on",
+        "toggle_default":"open",
+        "intercept_filter":"on",
+        "intercept_term":"on",
+        "map_types":"on",
+        "map_zoom":"on",
+        "map_geolocation":"on",
+        "marker_style":"inventor-poi",
+        "input_titles":"labels",
+        "orderby":"on",
+        "sort":"",
+        "hide_location":"on",
+        "hide_category":"on"
+      },
+      "_multiwidget":1
+    },
+    "listing_slider":{
+      "2":{
+        "ids":"591,587, 576",
+        "classes":"header-transparent, listing-slider-append-top, header-disable-topbar",
+        "height":"800px",
+        "fullscreen":"on",
+        "size":"thumbnail",
+        "show_arrows":"on",
+        "autoplay_timeout":""
+      },
+      "_multiwidget":1
+    },
+    "video_cover":{
+      "3":{
+        "title":"Directory WordPress Theme",
+        "subtitle":"Quisque efficitur mauris nec placerat pulvinar. Nam vel magna orci. Vestibulum pretium posuere diam",
+        "height":"700px",
+        "poster":"http:\/\/preview.byaviators.com\/theme\/superlist\/wp-content\/uploadz\/2015\/10\/restaurant.jpg",
+        "overlay_opacity":"0.5",
+        "video_mp4":"",
+        "video_ogg":"",
+        "filter":"on",
+        "button_text":"Filter Listings",
+        "input_titles":"placeholders",
+        "sort":"<br \/>\r\n<b>Notice<\/b>:  Undefined variable: sort in <b>\/home\/superlist\/public_html\/superlist_wp\/wp-content\/plugins\/inventor\/templates\/widgets\/filter-fields.php<\/b> on line <b>13<\/b><br \/>\r\n",
+        "hide_listing_type":"on",
+        "hide_title":"on",
+        "hide_description":"on",
+        "hide_keyword":"on",
+        "hide_distance":"on",
+        "hide_price":"on",
+        "hide_geolocation":"on",
+        "hide_featured":"on",
+        "hide_reduced":"on",
+        "hide_rating":"on"
+      },
+      "2":{
+        "title":"Directory WordPress Theme",
+        "subtitle":"Quisque efficitur mauris nec placerat pulvinar. Nam vel magna orci. Vestibulum pretium posuere diam",
+        "height":"700px",
+        "poster":"http:\/\/preview.byaviators.com\/theme\/superlist\/wp-content\/uploadz\/2015\/10\/video-cover.jpg",
+        "overlay_opacity":"0.4",
+        "video_mp4":"http:\/\/preview.byaviators.com\/theme\/superlist\/wp-content\/uploads\/2015\/10\/video.mp4",
+        "video_ogg":"",
+        "filter":"on",
+        "button_text":"Filter Listings",
+        "input_titles":"placeholders",
+        "sort":"<br \/>\r\n<b>Notice<\/b>:  Undefined variable: sort in <b>\/home\/superlist\/public_html\/superlist_wp\/wp-content\/plugins\/inventor\/templates\/widgets\/filter-fields.php<\/b> on line <b>13<\/b><br \/>\r\n",
+        "hide_listing_type":"on",
+        "hide_title":"on",
+        "hide_description":"on",
+        "hide_keyword":"on",
+        "hide_distance":"on",
+        "hide_price":"on",
+        "hide_geolocation":"on",
+        "hide_featured":"on",
+        "hide_reduced":"on",
+        "hide_rating":"on"
+      },
+      "_multiwidget":1
+    },
+    "partners":{
+      "3":{
+        "title":"",
+        "description":"",
+        "count":"5",
+        "ids":"529, 532, 880, 882, 888",
+        "per_row":"5",
+        "background_color":"",
+        "background_image":"",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":"background-white"
+      },
+      "_multiwidget":1
+    },
+    "inventor_boxes":{
+      "2":{
+        "title":"<strong>EXTRA<\/strong> SERVICES",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sodales lectus ut tellus pharetra, ac pretium urna pharetra. Ut in odio varius, posuere dolor nec, auctor erat.",
+        "button_text":"Full features",
+        "button_url":"http:\/\/themeforest.net\/item\/superlist-directory-wordpress-theme\/13507181?ref=aviators",
+        "title_1":"Email Support",
+        "content_1":"We are always ready to answer all of your questions. Don't hesitate to contact us.",
+        "icon_1":"<i class=\"fa fa-life-ring\"><\/i>",
+        "number_1":"",
+        "link_1":"http:\/\/themeforest.net\/item\/superlist-directory-wordpress-theme\/13507181?ref=aviators",
+        "background_image_1":"",
+        "css_class_1":"",
+        "title_2":"Always Improving",
+        "content_2":"Our dedicated team of developers are implementing awesome features.",
+        "icon_2":"<i class=\"fa fa-flask\"><\/i>",
+        "number_2":"",
+        "link_2":"http:\/\/themeforest.net\/item\/superlist-directory-wordpress-theme\/13507181?ref=aviators",
+        "background_image_2":"",
+        "css_class_2":"",
+        "title_3":"Best Quality",
+        "content_3":"We do our best to follow best practices, optimize page performance and maximize security.",
+        "icon_3":"<i class=\"fa fa-thumbs-up\"><\/i>",
+        "number_3":"",
+        "link_3":"http:\/\/themeforest.net\/item\/superlist-directory-wordpress-theme\/13507181?ref=aviators",
+        "background_image_3":"",
+        "css_class_3":"",
+        "title_4":"",
+        "content_4":"",
+        "icon_4":"",
+        "number_4":"",
+        "link_4":"",
+        "background_image_4":"",
+        "css_class_4":"",
+        "background_color":"#212121",
+        "background_image":"",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":"background-dark"
+      },
+      "4":{
+        "title":"",
+        "description":"",
+        "button_text":"",
+        "button_url":"",
+        "title_1":"LISTINGS",
+        "content_1":"",
+        "icon_1":"<i class=\"fa fa-file\"><\/i>",
+        "number_1":"108",
+        "link_1":"",
+        "background_image_1":"",
+        "css_class_1":"",
+        "title_2":"USERS",
+        "content_2":"",
+        "icon_2":"<i class=\"fa fa-user\"><\/i>",
+        "number_2":"626",
+        "link_2":"",
+        "background_image_2":"",
+        "css_class_2":"",
+        "title_3":"LISTING TYPES",
+        "content_3":"",
+        "icon_3":"<i class=\"fa fa-list\"><\/i>",
+        "number_3":"13",
+        "link_3":"",
+        "background_image_3":"",
+        "css_class_3":"",
+        "title_4":"CATEGORIES",
+        "content_4":"",
+        "icon_4":"<i class=\"fa fa-folder-open\"><\/i>",
+        "number_4":"77",
+        "link_4":"",
+        "background_image_4":"",
+        "css_class_4":"",
+        "background_color":"",
+        "background_image":"",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":"boxes-centered background-primary background-dark boxes-numbers background-semitransparent"
+      },
+      "3":{
+        "title":"THEME <strong>FEATURES<\/strong>",
+        "description":"",
+        "button_text":"",
+        "button_url":"",
+        "title_1":"Top Noch Directory",
+        "content_1":"Sed tempus nisl ac pretium tempor. Nulla ut est",
+        "icon_1":"<i class=\"fa fa-star\"><\/i>",
+        "link_1":"",
+        "background_image_1":"",
+        "css_class_1":"",
+        "title_2":"Responsive",
+        "content_2":"Sed tempus nisl ac pretium tempor. Nulla ut est",
+        "icon_2":"<i class=\"fa fa-mobile\"><\/i>",
+        "link_2":"",
+        "background_image_2":"",
+        "css_class_2":"",
+        "title_3":"Perfect Code",
+        "content_3":"Sed tempus nisl ac pretium tempor. Nulla ut est",
+        "icon_3":"<i class=\"fa fa-flask\"><\/i>",
+        "link_3":"",
+        "background_image_3":"",
+        "css_class_3":"",
+        "title_4":"",
+        "content_4":"",
+        "icon_4":"",
+        "link_4":"",
+        "background_image_4":"",
+        "css_class_4":"",
+        "background_color":"",
+        "background_image":"",
+        "classes":""
+      },
+      "_multiwidget":1
+    },
+    "faq":{
+      "2":{
+        "title":"<strong>FAQ<\/strong>s",
+        "description":"Frequently Asked Questions",
+        "background_color":"#ffffff",
+        "background_image":"",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":"condensed"
+      },
+      "_multiwidget":1
+    },
+    "listing_categories":{
+      "2":{
+        "title":"DIRECTORY <strong>CATEGORIES<\/strong>",
+        "description":"Check the list of all categories and subcategories available for our items in directory application. All these pages are created automatically by WordPress itself.",
+        "listing_categories":[
+          "71",
+          "181",
+          "51",
+          "397",
+          "384",
+          "65",
+          "136",
+          "152",
+          "59",
+          "159",
+          "145"
+        ],
+        "show_count":"on",
+        "background_color":"",
+        "background_image":"",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":"widget-border-bottom"
+      },
+      "_multiwidget":1
+    },
+    "testimonials":{
+      "3":{
+        "title":"HAPPY <strong>CUSTOMERS<\/strong>",
+        "description":"Read testimonials about our directory services and products.",
+        "count":"6",
+        "background_color":"#ffffff",
+        "background_image":"",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":""
+      },
+      "_multiwidget":1
+    },
+    "pricing":{
+      "2":{
+        "title":"FAIR <strong>PRICING<\/strong>",
+        "description":"Our company offers best pricing options for field agents and companies. If you are interested \r\nin special plan don't hesitate and contact our sales support.",
+        "per_row":"4",
+        "background_color":"",
+        "background_image":"",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":"widget-border-top"
+      },
+      "_multiwidget":1
+    },
+    "simple_map":{
+      "3":{
+        "latitude":"48.861448",
+        "longitude":"2.334107",
+        "zoom":"15",
+        "height":"350",
+        "style":"superlist",
+        "background_color":"",
+        "background_image":"",
+        "classes":""
+      },
+      "_multiwidget":1
+    },
+    "call_to_action":{
+      "2":{
+        "text":"<i class=\"superlist-logo\"><\/i> <span>Directory WordPress Theme<\/span><strong>Advanced WordPress Listings & Directory Application<\/strong>",
+        "button_text":"Purchase at ThemeForest",
+        "button_link":"http:\/\/themeforest.net\/item\/superlist-directory-wordpress-theme\/13507181?ref=aviators",
+        "background_color":"",
+        "background_image":"",
+        "padding_top":"1",
+        "padding_bottom":"1",
+        "classes":"background-white widget-border-top"
+      },
+      "_multiwidget":1
+    },
+    "search":{
+      "2":{
+        "title":""
+      },
+      "_multiwidget":1
+    }
+  }
+]

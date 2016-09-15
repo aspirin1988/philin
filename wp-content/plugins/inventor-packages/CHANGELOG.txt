@@ -1,0 +1,86 @@
+Version: 0.1.0
+Release date: 2015-12-02
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2015-12-04
+- fixed text_money sanitation callback
+
+
+Version: 0.1.2
+Release date: 2015-12-12
+- package valid fix
+
+
+Version: 0.2.0
+Release date: 2016-01-18
+- private packages
+- pricing table with empty rows fix
+- price of free packages is shown as 0 instead of empty string
+
+
+Version: 0.3.0
+Release date: 2016-03-16
+What's new:
+- removed .po and .mo files and created .pot file
+- performance improvement (user package validation is checked every hour and when package is changed instead of at every page refresh)
+- security fix
+- better UX
+- fixed missing translation strings and phrases
+- Slovak translation
+
+
+Version: 0.3.1
+Release date: 2016-03-18
+What's new:
+- fixed infinite package validation
+
+
+Version: 0.4.0
+Release date: 2016-03-29
+What's new:
+- fixed missing translation strings and phrases
+- PHP 7 support
+- hidden message in package info widget if payment page not set
+- max listings in pricing table
+- Italian translation
+- disallowed package permissions are shown in pricing table
+- option to assign trial package to pricing table
+
+
+Version: 0.5.0
+Release date: 2016-04-07
+What's new:
+- support for inventor_metabox_allowed filter
+- Spanish translation
+
+
+Version: 0.6.0
+Release date: 2016-04-16
+What's new:
+- French translation
+- Danish translation
+
+
+Version: 0.7.0
+Release date: 2016-05-01
+What's new:
+- support for widget visibility
+- support for cookie storage
+- fixed translation for package expiration date
+- packages widget
+
+
+Version: 0.8.0
+Release date: 2016-05-20
+What's new:
+- German translation
+- listing types restrictions
+
+
+Version: 0.9.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation

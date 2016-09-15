@@ -1,0 +1,75 @@
+Version: 0.1.0
+Release date: 2015-11-03
+What's new:
+- First release
+
+
+Version: 0.1.1
+Release date: 2016-01-18
+What's new:
+- reviews do not conflict with the comments
+- template refactoring
+- notice fixes
+- performance optimization
+
+
+Version: 0.1.2
+Release date: 2016-03-16
+What's new:
+- removed .po and .mo files and created .pot file
+- rating 0 rendered as empty string fix
+- fixed missing translation strings and phrases
+- Slovak translation
+
+
+Version: 0.2.0
+Release date: 2016-03-29
+What's new:
+- Italian translation
+
+
+Version: 0.3.0
+Release date: 2016-04-07
+What's new:
+- Spanish translation
+
+
+Version: 0.3.1
+Release date: 2016-04-08
+What's new:
+- reviews now update in real-time as they are approved/unapproved or even subsequently deleted
+
+
+Version: 0.4.0
+Release date: 2016-04-15
+What's new:
+- Hungarian translation
+- Danish translation
+- French translation
+
+
+Version: 0.5.0
+Release date: 2016-05-01
+What's new:
+- support for filter params without filter-prefix
+- support for Google reCAPTCHA
+
+
+Version: 0.5.1
+Release date: 2016-05-02
+What's new:
+- Google reCAPTCHA fix
+
+
+Version: 0.6.0
+Release date: 2016-05-20
+What's new:
+- if ordering by rating, search result contains listings without reviews too
+- German translation
+
+
+Version: 0.7.0
+Release date: 2016-06-08
+What's new:
+- Portugal translation
+- fix of blocking reviews of unregistered users

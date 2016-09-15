@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Submission v1.4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-08-27 11:27:53+0000\n"
+"Last-Translator: admin <eidekeyev@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/class-inventor-submission-logic.php:372
+#@ inventor-submission
+msgid "New submission has been successfully created."
+msgstr "Новое представление было успешно создано."
+
+#: includes/class-inventor-submission-logic.php:378
+#@ inventor-submission
+msgid "Submission has been successfully updated."
+msgstr "Подача была успешно обновлена."
+
+#: includes/class-inventor-submission-logic.php:531
+#@ inventor-submission
+msgid "Item has been successfully removed."
+msgstr "Item has been successfully removed."
+
+#: includes/class-inventor-submission-logic.php:533
+#@ inventor-submission
+msgid "An error occurred when removing an item."
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:582
+#@ inventor-submission
+msgid "Featured listing"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:583
+#, php-format
+#@ inventor-submission
+msgid "Make listing %s featured"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:587
+#@ inventor-submission
+msgid "Publish listing"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:588
+#, php-format
+#@ inventor-submission
+msgid "Publish %s"
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:657
+#@ inventor-submission
+msgid "Listing successfully featured."
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:669
+#@ inventor-submission
+msgid "Listing will be published after review."
+msgstr ""
+
+#: includes/class-inventor-submission-logic.php:673
+#@ invnetor-submission
+msgid "Listing has been published."
+msgstr ""
+
+#: includes/class-inventor-submission-shortcodes.php:69
+#@ inventor-submission
+msgid "Check your package."
+msgstr ""
+
+#: includes/class-inventor-submission-shortcodes.php:88
+#@ inventor-submission
+msgid "You are not allowed to submit this type."
+msgstr ""
+
+#: includes/class-inventor-submission-shortcodes.php:115
+#@ inventor-submission
+msgid "Done"
+msgstr ""
+
+#: includes/class-inventor-submission-shortcodes.php:115
+#@ inventor-submission
+msgid "Proceed to next step"
+msgstr ""
+
+#: includes/class-inventor-submission-shortcodes.php:115
+#@ inventor-submission
+msgid "Save"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: includes/customizations/class-inventor-submission-customizations-submission.php:36
+#: inventor-submission.php:0
+#@ inventor-submission
+msgid "Inventor Submission"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:49
+#@ inventor-submission
+msgid "Type"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:50
+#@ inventor-submission
+msgid "Defines what determines number of user listings."
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:54
+#@ inventor-submission
+msgid "Free for all"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:55
+#@ inventor-submission
+msgid "Pay per post"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:68
+#@ inventor-submission
+msgid "Review Before Submission"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:81
+#@ inventor-submission
+msgid "Publish price"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:84
+#@ inventor-submission
+msgid "For \"pay per post\" submission type"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:96
+#@ inventor-submission
+msgid "Featured price"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:111
+#@ inventor-submission
+msgid "User listings"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:126
+#@ inventor-submission
+msgid "Add listing"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:141
+#@ inventor-submission
+msgid "Edit listing"
+msgstr ""
+
+#: includes/customizations/class-inventor-submission-customizations-submission.php:156
+#@ inventor-submission
+msgid "Remove listing"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: inventor-submission.php:0
+#@ inventor-submission
+msgid "http://inventorwp.com/plugins/inventor-submission/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: inventor-submission.php:0
+#@ inventor-submission
+msgid "Adds ability for frontend listing submission."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: inventor-submission.php:0
+#@ inventor-submission
+msgid "Pragmatic Mates"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: inventor-submission.php:0
+#@ inventor-submission
+msgid "http://inventorwp.com"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: inventor-submission.php:0
+#@ inventor-submission
+msgid "1.4.0"
+msgstr ""
+
+#: templates/submission/list.php:11
+#@ inventor-submission
+msgid "Create listing"
+msgstr ""
+
+#: templates/submission/list.php:29
+#@ inventor-submission
+msgid "Listing published"
+msgstr ""
+
+#: templates/submission/list.php:30
+#@ inventor-submission
+msgid "Waiting for review"
+msgstr ""
+
+#: templates/submission/list.php:31
+#@ inventor-submission
+msgid "Listing disabled"
+msgstr ""
+
+#: templates/submission/list.php:44
+#: templates/submission/list.php:124
+#@ inventor-submission
+msgid "Pending"
+msgstr ""
+
+#: templates/submission/list.php:48
+#: templates/submission/list.php:117
+#@ inventor-submission
+msgid "Published"
+msgstr ""
+
+#: templates/submission/list.php:52
+#@ inventor-submission
+msgid "Disabled"
+msgstr ""
+
+#: templates/submission/list.php:98
+#@ inventor-submission
+msgid "Make featured"
+msgstr ""
+
+#: templates/submission/list.php:104
+#@ inventor-submission
+msgid "Featured"
+msgstr ""
+
+#: templates/submission/list.php:136
+#@ inventor-submission
+msgid "Publish"
+msgstr ""
+
+#: templates/submission/list.php:151
+#@ inventor-submission
+msgid "Edit"
+msgstr ""
+
+#: templates/submission/list.php:157
+#@ inventor-submission
+msgid "Remove"
+msgstr ""
+
+#: templates/submission/list.php:169
+#@ inventor-submission
+msgid "Previous page"
+msgstr ""
+
+#: templates/submission/list.php:170
+#@ inventor-submission
+msgid "Next page"
+msgstr ""
+
+#: templates/submission/list.php:171
+#@ inventor-submission
+msgid "Page"
+msgstr ""
+
+#: templates/submission/list.php:178
+#@ inventor-submission
+msgid "No listings found."
+msgstr ""
+
+#: templates/submission/list.php:184
+#@ inventor-submission
+msgid "You don't have any listings, yet. Start by creating new one."
+msgstr ""
+
+#: templates/submission/payment-form-before.php:7
+#@ inventor-submission
+msgid "Price is not set."
+msgstr ""
+
+#: templates/submission/payment-form-before.php:12
+#, php-format
+#@ inventor-submission
+msgid "You are going to pay <strong>%s</strong> for featured listing <strong>\"%s\"</strong>."
+msgstr ""
+
+#: templates/submission/payment-form-before.php:14
+#, php-format
+#@ inventor-submission
+msgid "You are going to pay <strong>%s</strong> to publish listing <strong>\"%s\"</strong>."
+msgstr ""
+
+#: templates/submission/payment-form-before.php:21
+#@ inventor-submission
+msgid "Missing listing."
+msgstr ""
+
+#: templates/submission/remove-form.php:3
+#@ inventor-submission
+msgid "You have to specify listing!"
+msgstr ""
+
+#: templates/submission/remove-form.php:6
+#, php-format
+#@ inventor-submission
+msgid "Are you sure you want to delete %s?"
+msgstr ""
+
+#: templates/submission/remove-form.php:15
+#@ inventor-submission
+msgid "Delete"
+msgstr ""
+
+#: templates/submission/step-title.php:8
+#@ inventor-submission
+msgid "Step"
+msgstr ""
+
+#: templates/submission/steps-not-found.php:1
+#@ inventor-submission
+msgid "Listing type does not have any metaboxes."
+msgstr ""
+
+#: templates/submission/steps.php:26
+#@ inventor-submission
+msgid "Nothing to show."
+msgstr ""
+
+#: templates/submission/type-not-found.php:6
+#@ inventor-submission
+msgid "Please define type of your submission"
+msgstr ""
+
+#: templates/submission/type-not-found.php:21
+#@ inventor-submission
+msgid "You don't have privilege to create any submission."
+msgstr ""
+

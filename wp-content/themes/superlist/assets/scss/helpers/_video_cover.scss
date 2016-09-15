@@ -1,0 +1,158 @@
+body.layout-boxed {
+    #video-cover-wrap, #video-cover {
+        width: auto !important;
+    }
+}
+
+.widget_video_cover {
+    position: relative;
+
+    .cover-widget-append-top & {
+        margin-top: -106px;
+    }
+}
+
+.video-cover {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    position: relative;
+    overflow: hidden;
+
+    video {
+        position: absolute;
+        width: 100%;
+    }
+}
+
+.video-wrapper-overlay {
+    background-color: $color-black-dark;
+    bottom: 0px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    opacity: 0.4;
+    right: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.video-cover-title {
+    color: #fff;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    z-index: 91;
+
+    h1 {
+        color: #fff;
+        font-weight: 400;
+        font-size: 60px;
+        padding: 0px 15px;
+        text-shadow: 2px 2px 1px rgba(black, .4);
+    }
+
+    h2 {
+        color: rgba(white, .9);
+        font-size: 23px;
+        font-weight: 400;
+        line-height: 1.5;
+        padding: 0px 15px;
+        text-shadow: 1px 1px 1px rgba(black, .4);
+    }
+
+    @media (max-width: $screen-sm-max) {
+        h1 {
+            font-size: 40px;
+        }
+
+        h2 {
+            font-size: 20px;
+        }
+    }
+
+    @media (max-width: $screen-xs-max) {
+        width: 100%;
+
+        h1 {
+            font-size: 30px;
+        }
+
+        h2 {
+            font-size: 16px;
+        }
+    }
+}
+
+.video-cover-filter {
+    form {
+        @extend .row;
+
+        margin-top: 80px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .dropdown-menu {
+        border-color: #fff;
+    }
+
+    .form-group {
+        @extend .col-md-4;
+
+        .form-control {
+            -webkit-appearance: initial;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+            height: 49px;
+        }
+
+        .dropdown-toggle, > input {
+            border-color: #fff !important;
+        }
+
+        button {
+            &.button {
+                font-size: 15px;
+                font-weight: 500;
+                padding: 14px;
+                width: 100%;
+
+                &:after {
+                    content: none;
+                }
+            }
+        }
+
+        input, select {
+            padding: 11px 20px;
+        }
+
+        .bootstrap-select .dropdown-toggle, input {
+            height: 49px;
+        }
+
+        .bootstrap-select {
+            .btn, button {
+                padding: 9px 20px;
+            }
+
+            .bs-searchbox {
+                padding: 4px;
+
+                &:before {
+                    margin-top: 13px;
+                }
+
+                .form-control {
+                    box-shadow: none;
+                    padding: 6px 40px;
+                }
+            }
+        }
+    }
+}

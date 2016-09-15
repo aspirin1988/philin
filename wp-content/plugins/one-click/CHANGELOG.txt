@@ -1,0 +1,31 @@
+Version: 0.1.0
+Release date: 2015-11-03
+What's new:
+- Fist release
+
+
+Version: 0.1.1
+Release date: 2016-03-16
+What's new:
+- refactoring
+
+
+Version: 0.2.0
+Release date: 2016-04-06
+What's new:
+- Slovak translation
+
+
+Version: 0.3.0
+Release date: 2016-04-18
+What's new:
+- Danish translation
+- French translation
+
+
+Version: 0.4.0
+Release date: 2016-05-20
+What's new:
+- German translation
+- Spanish translation
+- Italian translation
