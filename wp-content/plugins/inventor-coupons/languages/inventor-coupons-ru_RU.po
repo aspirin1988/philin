@@ -23,17 +23,17 @@ msgstr ""
 #: includes/class-inventor-coupons-ajax.php:41
 #@ inventor-coupons
 msgid "Missing coupon ID."
-msgstr ""
+msgstr "Отсутствует код купона."
 
 #: includes/class-inventor-coupons-ajax.php:52
 #@ inventor-coupons
 msgid "Coupon does not exists."
-msgstr ""
+msgstr "Купон не существует."
 
 #: includes/class-inventor-coupons-ajax.php:73
 #@ inventor-coupons
 msgid "Max number of coupons exceeded."
-msgstr ""
+msgstr "Максимальное количество купонов превышено."
 
 #: includes/class-inventor-coupons-metaboxes.php:23
 #@ inventor-coupons
@@ -43,23 +43,23 @@ msgstr "Детали купона"
 #: includes/class-inventor-coupons-metaboxes.php:33
 #@ inventor-coupons
 msgid "Discount"
-msgstr ""
+msgstr "Скидка"
 
 #: includes/class-inventor-coupons-metaboxes.php:35
 #@ inventor-coupons
 msgid "Insert integer number like: 30. It will be outputted as 30%."
-msgstr ""
+msgstr "Вставить целое число строку: 30. Оно будет выводиться в виде 30%."
 
 #: includes/class-inventor-coupons-metaboxes.php:40
 #@ inventor-coupons
 msgid "Variant"
-msgstr ""
+msgstr "Вариант"
 
 #: includes/class-inventor-coupons-metaboxes.php:44
 #: includes/class-inventor-coupons-metaboxes.php:52
 #@ inventor-coupons
 msgid "Image"
-msgstr ""
+msgstr "Изображение"
 
 #: includes/class-inventor-coupons-metaboxes.php:45
 #: includes/class-inventor-coupons-metaboxes.php:119
@@ -76,27 +76,27 @@ msgstr "Сгенерированный код"
 #: includes/class-inventor-coupons-metaboxes.php:58
 #@ inventor-coupons
 msgid "Max. number"
-msgstr ""
+msgstr "Максимальное число"
 
 #: includes/class-inventor-coupons-metaboxes.php:60
 #@ inventor-coupons
 msgid "Insert integer for max. number of codes which can be generated."
-msgstr ""
+msgstr "Вставьте целое число для макс. количество кодов, которые могут быть сгенерированы."
 
 #: includes/class-inventor-coupons-metaboxes.php:65
 #@ inventor-coupons
 msgid "Coupon code"
-msgstr ""
+msgstr "Код купона"
 
 #: includes/class-inventor-coupons-metaboxes.php:71
 #@ inventor-coupons
 msgid "Coupon Valid"
-msgstr ""
+msgstr "Купон верен"
 
 #: includes/class-inventor-coupons-metaboxes.php:77
 #@ inventor-coupons
 msgid "Conditions"
-msgstr ""
+msgstr "Условия"
 
 #: includes/class-inventor-coupons-metaboxes.php:92
 #@ inventor-coupons
@@ -106,29 +106,29 @@ msgstr "Сгенерированный код"
 #: includes/class-inventor-coupons-metaboxes.php:105
 #@ inventor-coupons
 msgid "Generated Codes"
-msgstr ""
+msgstr "Генерируемые коды"
 
 #: includes/class-inventor-coupons-metaboxes.php:106
 #@ inventor-coupons
 msgid "Add Another Code"
-msgstr ""
+msgstr "Добавить другой код"
 
 #: includes/class-inventor-coupons-metaboxes.php:107
 #@ inventor-coupons
 msgid "Remove Code"
-msgstr ""
+msgstr "Удалить код"
 
 #: includes/class-inventor-coupons-metaboxes.php:113
 #@ inventor-coupon
 msgid "User ID"
-msgstr ""
+msgstr "ID пользователя"
 
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:34
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:40
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:46
 #@ inventor-coupons
 msgid "Coupons"
-msgstr ""
+msgstr "Купоны"
 
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:35
 #@ inventor-coupons
@@ -139,38 +139,38 @@ msgstr "Купон"
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:37
 #@ inventor-coupons
 msgid "Add New Coupon"
-msgstr ""
+msgstr "Добавить новый купон"
 
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:38
 #@ inventor-coupons
 msgid "Edit Coupon"
-msgstr ""
+msgstr "Изменить купон"
 
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:39
 #@ inventor-coupons
 msgid "New Coupon"
-msgstr ""
+msgstr "Новй купон"
 
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:41
 #: templates/coupons/box.php:56
 #@ inventor-coupons
 msgid "View Coupon"
-msgstr ""
+msgstr "Показать купон"
 
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:42
 #@ inventor-coupons
 msgid "Search Coupon"
-msgstr ""
+msgstr "Найти купон"
 
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:43
 #@ inventor-coupons
 msgid "No Coupons found"
-msgstr ""
+msgstr "Не найдено ни однойго купона"
 
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:44
 #@ inventor-coupons
 msgid "No Coupons Found in Trash"
-msgstr ""
+msgstr "Нет купонов в корзине"
 
 #: includes/post-types/class-inventor-coupons-post-type-coupon.php:56
 #@ inventor-coupons
@@ -181,12 +181,12 @@ msgstr ""
 #: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:23
 #@ inventor-coupons
 msgid "Coupon Detail"
-msgstr ""
+msgstr "Подробности купона"
 
 #: includes/widgets/class-inventor-coupons-widget-coupon-detail.php:25
 #@ inventor-coupons
 msgid "Coupon Detail."
-msgstr ""
+msgstr "Подробности купона."
 
 #: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:23
 #@ inventor-coupons
@@ -196,7 +196,7 @@ msgstr ""
 #: includes/widgets/class-inventor-coupons-widget-coupon-listings.php:25
 #@ inventor-coupons
 msgid "Coupon listing."
-msgstr ""
+msgstr "Список купонов"
 
 #. translators: plugin header field 'Name'
 #: inventor-coupons.php:0
@@ -214,7 +214,7 @@ msgstr ""
 #: inventor-coupons.php:0
 #@ inventor-coupons
 msgid "Coupons listing support."
-msgstr ""
+msgstr "Купоны список поддержки."
 
 #. translators: plugin header field 'Author'
 #: inventor-coupons.php:0
@@ -242,23 +242,23 @@ msgstr ""
 #: templates/coupons/box.php:51
 #@ inventor-coupons
 msgid "Coupon does not expire."
-msgstr ""
+msgstr "Купон не имеет срока действия."
 
 #: templates/widgets/coupon-detail-admin.php:12
 #: templates/widgets/coupon-listings-admin.php:13
 #@ inventor-coupons
 msgid "Title"
-msgstr ""
+msgstr "Заголовок"
 
 #: templates/widgets/coupon-detail.php:34
 #@ inventor-coupon
 msgid "Print Coupon"
-msgstr ""
+msgstr "Напечатать купон"
 
 #: templates/widgets/coupon-detail.php:40
 #@ inventor-coupon
 msgid "Get the Code"
-msgstr ""
+msgstr "Получить код"
 
 #: templates/widgets/coupon-detail.php:58
 #@ inventor-coupon
@@ -268,30 +268,30 @@ msgstr "Генерация кода"
 #: templates/widgets/coupon-detail.php:64
 #@ inventor-coupons
 msgid "Available codes"
-msgstr ""
+msgstr "Доступные коды"
 
 #: templates/widgets/coupon-detail.php:74
 #@ inventor-coupons
 msgid "You must be logged in to get the coupon code."
-msgstr ""
+msgstr "Вы должны войти в систему, чтобы получить код купона."
 
 #: templates/widgets/coupon-detail.php:82
 #@ inventor-coupons
 msgid "Expires"
-msgstr ""
+msgstr "Искать"
 
 #: templates/widgets/coupon-detail.php:89
 #@ inventor-coupons
 msgid "Voucher valid"
-msgstr ""
+msgstr "Ваучер действителен"
 
 #: templates/widgets/coupon-detail.php:97
 #@ inventor-coupons
 msgid "Conditions of application"
-msgstr ""
+msgstr "Условия применения"
 
 #: templates/widgets/coupon-listings-admin.php:26
 #@ inventor-coupons
 msgid "Count"
-msgstr ""
+msgstr "Количество"
 

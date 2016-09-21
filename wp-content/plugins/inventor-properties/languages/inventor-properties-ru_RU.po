@@ -42,7 +42,7 @@ msgstr "Свойства"
 #: includes/post-types/class-inventor-properties-post-type-property.php:61
 #@ inventor-properties
 msgid "Property"
-msgstr "имущество"
+msgstr "Имущество"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:62
 #: includes/post-types/class-inventor-properties-post-type-property.php:63
@@ -129,7 +129,7 @@ msgstr "Атрибуты"
 #: includes/post-types/class-inventor-properties-post-type-property.php:158
 #@ inventor-properties
 msgid "Rooms"
-msgstr "Rooms"
+msgstr "Количество комнат"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:169
 #@ inventor-properties
@@ -139,7 +139,7 @@ msgstr "Кровати"
 #: includes/post-types/class-inventor-properties-post-type-property.php:180
 #@ inventor-properties
 msgid "Baths"
-msgstr "баня"
+msgstr "Баня"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:191
 #@ inventor-properties
@@ -154,14 +154,14 @@ msgstr "Автостоянки"
 #: includes/post-types/class-inventor-properties-post-type-property.php:213
 #@ inventor-properties
 msgid "Home area"
-msgstr "Главная площадь"
+msgstr "Общая площадь"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:215
 #: includes/post-types/class-inventor-properties-post-type-property.php:228
 #, php-format
 #@ inventor-properties
 msgid "In %s. (Enter value without unit)"
-msgstr ""
+msgstr "В %s. (Введите значение без единицы)"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:226
 #@ inventor-properties
@@ -171,12 +171,12 @@ msgstr "Размер участка"
 #: includes/post-types/class-inventor-properties-post-type-property.php:239
 #@ inventor-properties
 msgid "Lot dimensions"
-msgstr "размеры участка"
+msgstr "Размеры участка"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:242
 #@ inventor-properties
 msgid "e.g. 20x30, 20x30x40, 20x30x40x50"
-msgstr ""
+msgstr "Например 20x30, 20x30x40, 20x30x40x50"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:246
 #: templates/amenities.php:10
@@ -210,12 +210,12 @@ msgstr "Общественный фонд"
 #: includes/post-types/class-inventor-properties-post-type-property.php:324
 #@ inventor-properties
 msgid "Add Another Public Facility"
-msgstr "Добавить еще Общественный фонд"
+msgstr "Добавить еще общественный фонд"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:325
 #@ inventor-properties
 msgid "Remove Public Facility"
-msgstr "Удалить Общественный фонд"
+msgstr "Удалить общественный фонд"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:331
 #: includes/post-types/class-inventor-properties-post-type-property.php:387
@@ -234,17 +234,17 @@ msgstr "Стоимость"
 #: templates/valuation.php:8
 #@ inventor-properties
 msgid "Valuation"
-msgstr "оценка"
+msgstr "Оценка"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:380
 #@ inventor-properties
 msgid "Add Another Valuation"
-msgstr "Добавить другой Оценка"
+msgstr "Добавить другую оценку"
 
 #: includes/post-types/class-inventor-properties-post-type-property.php:381
 #@ inventor-properties
 msgid "Remove Valuation"
-msgstr "Удалить Оценка"
+msgstr "Удалить оценку"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:34
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:44
@@ -255,47 +255,47 @@ msgstr "Удобства в отеле"
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:35
 #@ inventor-properties
 msgid "Property Amenity"
-msgstr "Недвижимость Удобство"
+msgstr "Недвижимость удобство"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:36
 #@ inventor-properties
 msgid "Search Property Amenity"
-msgstr "Поиск недвижимости Удобство"
+msgstr "Поиск недвижимости удобство"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:37
 #@ inventor-properties
 msgid "All Property Amenities"
-msgstr "Все Удобства в отеле"
+msgstr "Все удобства в отеле"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:38
 #@ inventor-properties
 msgid "Parent Property Amenity"
-msgstr "Родитель Удобство недвижимости"
+msgstr "Родитель удобство недвижимости"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:39
 #@ inventor-properties
 msgid "Parent Property Amenity:"
-msgstr "Родитель Удобство недвижимости:"
+msgstr "Родитель удобство недвижимости:"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:40
 #@ inventor-properties
 msgid "Edit Property Amenity"
-msgstr "Редактировать Удобство недвижимости"
+msgstr "Редактировать удобство недвижимости"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:41
 #@ inventor-properties
 msgid "Update Property Amenity"
-msgstr "Обновление Удобство недвижимости"
+msgstr "Обновление удобство недвижимости"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:42
 #@ inventor-properties
 msgid "Add New Property Amenity"
-msgstr "Добавить информацию о недвижимости Удобство"
+msgstr "Добавить информацию о недвижимости \"удобство\""
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:43
 #@ inventor-properties
 msgid "New Property Amenity"
-msgstr "Новая Удобство недвижимости"
+msgstr "Удобство недвижимости"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-amenities.php:45
 #@ inventor-properties
@@ -332,12 +332,12 @@ msgstr "Все типы недвижимости"
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:38
 #@ inventor-properties
 msgid "Parent Property Type"
-msgstr "Родитель Тип недвижимости"
+msgstr "Родитель тип недвижимости"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:39
 #@ inventor-properties
 msgid "Parent Property Type:"
-msgstr "Parent Property Type:"
+msgstr "Родитель тип недвижимости:"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:40
 #@ inventor-properties
@@ -347,7 +347,7 @@ msgstr "Изменить тип недвижимости"
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:41
 #@ inventor-properties
 msgid "Update Property Type"
-msgstr "Обновление Типа недвижимости"
+msgstr "Обновление типа недвижимости"
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:42
 #@ inventor-properties
@@ -362,7 +362,7 @@ msgstr "Новый тип недвижимости"
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:45
 #@ inventor-properties
 msgid "No property types found."
-msgstr "Нет типы недвижимости не найдено."
+msgstr "Типы недвижимости не найден."
 
 #: includes/taxonomies/class-inventor-properties-taxonomy-property-types.php:52
 #@ inventor-properties

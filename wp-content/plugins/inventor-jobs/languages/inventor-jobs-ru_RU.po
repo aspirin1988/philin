@@ -23,28 +23,28 @@ msgstr ""
 #: includes/class-inventor-jobs-logic.php:55
 #@ inventor-jobs
 msgid "New job application"
-msgstr ""
+msgstr "Новые вакансии"
 
 #: includes/class-inventor-jobs-logic.php:75
 #@ inventor-jobs
 msgid "Job was already assigned to user."
-msgstr ""
+msgstr "Работа была уже назначена пользователю."
 
 #: includes/class-inventor-jobs-logic.php:83
 #: includes/class-inventor-jobs-logic.php:255
 #@ inventor-jobs
 msgid "You already applied for this job."
-msgstr ""
+msgstr "Вы уже подали заявку на эту вакансию."
 
 #: includes/class-inventor-jobs-logic.php:94
 #@ inventor-jobs
 msgid "Job ID is missing."
-msgstr ""
+msgstr "ID вакансии не наедено"
 
 #: includes/class-inventor-jobs-logic.php:246
 #@ inventor
 msgid "reCAPTCHA is not valid."
-msgstr ""
+msgstr "рекапчи не является действительным."
 
 #: includes/class-inventor-jobs-logic.php:308
 #@ inventor-jobs
@@ -54,60 +54,60 @@ msgstr ""
 #: includes/class-inventor-jobs-logic.php:310
 #@ inventor-jobs
 msgid "Unable to send a message."
-msgstr ""
+msgstr "Не удалось отправить сообщение."
 
 #: includes/class-inventor-jobs-shortcodes.php:42
 #@ inventor-jobs
 msgid "Listing is not a job."
-msgstr ""
+msgstr "Список это не работа."
 
 #: includes/customizations/class-inventor-jobs-customizations-jobs.php:45
 #@ inventor-jobs
 msgid "Apply for job"
-msgstr ""
+msgstr "Подать заявку на работу"
 
 #: includes/customizations/class-inventor-jobs-customizations-jobs.php:60
 #@ inventor-jobs
 msgid "Job applicants"
-msgstr ""
+msgstr "Соискателей"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:37
 #: includes/post-types/class-inventor-jobs-post-type-application.php:43
 #: includes/post-types/class-inventor-jobs-post-type-application.php:49
 #@ inventor-jobs
 msgid "Applications"
-msgstr ""
+msgstr "Приложения"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:38
 #@ inventor-jobs
 msgid "Application"
-msgstr ""
+msgstr "Приложение"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:39
 #: includes/post-types/class-inventor-jobs-post-type-application.php:40
 #@ inventor-jobs
 msgid "Add New Application"
-msgstr ""
+msgstr "Добавить приложение"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:41
 #@ inventor-jobs
 msgid "Edit Application"
-msgstr ""
+msgstr "Изменить приложение"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:42
 #@ inventor-jobs
 msgid "New Application"
-msgstr ""
+msgstr "Новое приложение"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:44
 #@ inventor-jobs
 msgid "View Application"
-msgstr ""
+msgstr "Просмотр приложений"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:45
 #@ inventor-jobs
 msgid "Search Application"
-msgstr ""
+msgstr "Поиск приложений"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:46
 #@ inventor-jobs
@@ -117,28 +117,28 @@ msgstr ""
 #: includes/post-types/class-inventor-jobs-post-type-application.php:47
 #@ inventor-jobs
 msgid "No Applications Found in Trash"
-msgstr ""
+msgstr "Не найдено ни одного приложения в корзине"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:74
 #@ inventor-jobs
 msgid "General"
-msgstr ""
+msgstr "Главный"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:83
 #@ inventor-jobs
 msgid "Job ID"
-msgstr ""
+msgstr "ID вакансии"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:93
 #@ inventor-jobs
 msgid "Resume ID"
-msgstr ""
+msgstr "Вернуть ID"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:111
 #: templates/jobs-apply-mail.php:8
 #@ inventor-jobs
 msgid "Name"
-msgstr ""
+msgstr "Имя"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:112
 #: includes/post-types/class-inventor-jobs-post-type-job.php:101
@@ -152,7 +152,7 @@ msgstr "Работа"
 #: templates/jobs-apply-mail.php:20
 #@ inventor-jobs
 msgid "Resume"
-msgstr ""
+msgstr "Вернуть"
 
 #: includes/post-types/class-inventor-jobs-post-type-application.php:114
 #@ inventor-jobs
@@ -162,7 +162,7 @@ msgstr ""
 #: includes/post-types/class-inventor-jobs-post-type-application.php:115
 #@ inventor-jobs
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:53
 #: includes/post-types/class-inventor-jobs-post-type-job.php:199
@@ -175,43 +175,43 @@ msgstr "Необходимые умения"
 #: includes/post-types/class-inventor-jobs-post-type-job.php:112
 #@ inventor-jobs
 msgid "Jobs"
-msgstr ""
+msgstr "Вакансии"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:102
 #: includes/post-types/class-inventor-jobs-post-type-job.php:103
 #@ inventor-jobs
 msgid "Add New Job"
-msgstr ""
+msgstr "Добавить новую вакансию"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:104
 #@ inventor-jobs
 msgid "Edit Job"
-msgstr ""
+msgstr "Изменить вакансию"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:105
 #@ inventor-jobs
 msgid "New Job"
-msgstr ""
+msgstr "Новая вакансия"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:107
 #@ inventor-jobs
 msgid "View Job"
-msgstr ""
+msgstr "Просмотреть вакансию"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:108
 #@ inventor-jobs
 msgid "Search Job"
-msgstr ""
+msgstr "Найти вакансию"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:109
 #@ inventor-jobs
 msgid "No Jobs found"
-msgstr ""
+msgstr "Ниодной вакансии не найдено"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:110
 #@ inventor-jobs
 msgid "No Jobs Found in Trash"
-msgstr ""
+msgstr "Нет вакансий в карзине"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:121
 #@ inventor-jobs
@@ -248,70 +248,70 @@ msgstr "Тип контракта"
 #: includes/post-types/class-inventor-jobs-post-type-job.php:189
 #@ inventor-jobs
 msgid "Full-time"
-msgstr ""
+msgstr "Полная занятость"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:190
 #@ inventor-jobs
 msgid "Part-time"
-msgstr ""
+msgstr "Частичная занятость"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:191
 #@ inventor-jobs
 msgid "Brigade"
-msgstr ""
+msgstr "Бригада"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:192
 #@ inventor-jobs
 msgid "Agreement"
-msgstr ""
+msgstr "Соглашение"
 
 #: includes/post-types/class-inventor-jobs-post-type-job.php:193
 #@ inventor-jobs
 msgid "Self-employed persons"
-msgstr ""
+msgstr "Самозанятые лица"
 
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:51
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:57
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:63
 #@ inventor-jobs
 msgid "Resumes"
-msgstr ""
+msgstr "Резюме"
 
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:53
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:54
 #@ inventor-jobs
 msgid "Add New Resume"
-msgstr ""
+msgstr "Добавить резюме"
 
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:55
 #@ inventor-jobs
 msgid "Edit Resume"
-msgstr ""
+msgstr "Изменить резюме"
 
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:56
 #@ inventor-jobs
 msgid "New Resume"
-msgstr ""
+msgstr "Новое резюме"
 
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:58
 #@ inventor-jobs
 msgid "View Resume"
-msgstr ""
+msgstr "Показать резюме"
 
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:59
 #@ inventor-jobs
 msgid "Search Resume"
-msgstr ""
+msgstr "Найти резюме"
 
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:60
 #@ inventor-jobs
 msgid "No Resumes found"
-msgstr ""
+msgstr "Не найдено ни одной Резюме"
 
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:61
 #@ inventor-jobs
 msgid "No Resumes Found in Trash"
-msgstr ""
+msgstr "Нет Резюме в корзине"
 
 #: includes/post-types/class-inventor-jobs-post-type-resume.php:72
 #@ inventor-jobs

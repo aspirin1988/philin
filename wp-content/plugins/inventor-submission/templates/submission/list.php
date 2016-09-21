@@ -26,7 +26,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 <?php if ( $number_of_user_listings > 0 ) : ?>
 	<div class="listings-system-legend">
-		<a class="published" href="?listing-status=published"><?php echo esc_attr__( 'Listing published', 'inventor-submission' ); ?></a>
+		<a class="published" href="?listing-status=published"><?php echo esc_attr( 'Listing published', 'inventor-submission' ); ?></a>
 		<a class="in-review" href="?listing-status=pending"><?php echo esc_attr__( 'Waiting for review', 'inventor-submission' ); ?></a>
 		<a class="disabled" href="?listing-status=draft"><?php echo esc_attr__( 'Listing disabled', 'inventor-submission' ); ?></a>
 	</div>

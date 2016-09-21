@@ -40,7 +40,7 @@ msgstr "Объявления"
 #: includes/admin/class-inventor-admin-menu.php:103
 #@ inventor
 msgid "Lexicon"
-msgstr "лексикон"
+msgstr "Лексикон"
 
 #: includes/admin/class-inventor-admin-notices.php:60
 #@ inventor
@@ -353,7 +353,7 @@ msgstr "Чтобы перейти в секцию Обзора улицы <stron
 #: includes/class-inventor-metaboxes.php:406
 #@ inventor
 msgid "To set Inside View go to section <strong>Location</strong>. Do not forget to <strong>enable</strong> Inside View."
-msgstr ""
+msgstr "Чтобы установить вид изнутри в разделе <strong>Расположение</strong>. Не забудьте <strong>включить</strong> взгляд изнутри."
 
 #: includes/class-inventor-metaboxes.php:409
 #@ inventor
@@ -388,7 +388,7 @@ msgstr "Увеличить"
 #: includes/class-inventor-metaboxes.php:475
 #@ inventor
 msgid "Minimum value of zoom is 0. Maximum value depends on location (12-25)."
-msgstr ""
+msgstr "Минимальное значение сигнала равно 0. Максимальное значение зависит от местоположения (12-25)."
 
 #: includes/class-inventor-metaboxes.php:485
 #@ inventor
@@ -461,7 +461,7 @@ msgstr ""
 #: includes/class-inventor-metaboxes.php:610
 #@ inventor
 msgid "For more information about embeding videos and video links support please read this <a href=\"http://codex.wordpress.org/Embeds\">article</a>."
-msgstr ""
+msgstr "Для получения дополнительной информации о внедряются видео и видео одной поддержки, Пожалуйста, прочитайте это <а href=\"http://codex.wordpress.org/Embeds\">статьи</а>"
 
 #: includes/class-inventor-metaboxes.php:628
 #: includes/class-inventor-metaboxes.php:636
@@ -469,7 +469,7 @@ msgstr ""
 #: templates/widgets/listing-categories-boxes-admin.php:40
 #@ inventor
 msgid "Listing categories"
-msgstr "Категории Объявлений"
+msgstr "Категории объявлений"
 
 #: includes/class-inventor-metaboxes.php:629
 #@ inventor
@@ -568,7 +568,7 @@ msgstr "Определите цену тут"
 #, php-format
 #@ inventor
 msgid "In %s."
-msgstr "в процентах"
+msgstr "В %s"
 
 #: includes/class-inventor-metaboxes.php:868
 #@ inventor
@@ -583,7 +583,7 @@ msgstr "Текст перед ценой(например \\\"от\\\")"
 #: includes/class-inventor-metaboxes.php:882
 #@ inventor
 msgid "Suffix"
-msgstr "суффикс"
+msgstr "Суффикс"
 
 #: includes/class-inventor-metaboxes.php:888
 #@ inventor
@@ -593,7 +593,7 @@ msgstr "Любой текст, отображаемый после цены  (н
 #: includes/class-inventor-metaboxes.php:896
 #@ inventor
 msgid "Custom"
-msgstr "Заказ"
+msgstr "Произвольный"
 
 #: includes/class-inventor-metaboxes.php:902
 #@ inventor
@@ -632,47 +632,47 @@ msgstr "Интервал времени"
 #: includes/class-inventor-metaboxes.php:1037
 #@ inventor
 msgid "Date from"
-msgstr "дата с "
+msgstr "Дата с "
 
 #: includes/class-inventor-metaboxes.php:1049
 #@ inventor
 msgid "Date to"
-msgstr "дата до"
+msgstr "Дата до"
 
 #: includes/class-inventor-metaboxes.php:1073
 #: includes/class-inventor-metaboxes.php:1159
 #@ inventor
 msgid "Date and time interval"
-msgstr "интервал даты и времени"
+msgstr "Интервал даты и времени"
 
 #: includes/class-inventor-metaboxes.php:1080
 #@ inventor
 msgid "Date and time from"
-msgstr "дата и время с "
+msgstr "Дата и время с "
 
 #: includes/class-inventor-metaboxes.php:1092
 #@ inventor
 msgid "Date and time to"
-msgstr "дата и время до"
+msgstr "Дата и время до"
 
 #: includes/class-inventor-metaboxes.php:1116
 #@ inventor
 msgid "Time interval"
-msgstr "интервал времени"
+msgstr "Интервал времени"
 
 #: includes/class-inventor-metaboxes.php:1123
 #: includes/class-inventor-metaboxes.php:1178
 #: templates/controls/opening-hours.php:16
 #@ inventor
 msgid "Time from"
-msgstr "время с "
+msgstr "Время с "
 
 #: includes/class-inventor-metaboxes.php:1135
 #: includes/class-inventor-metaboxes.php:1190
 #: templates/controls/opening-hours.php:17
 #@ inventor
 msgid "Time to"
-msgstr "время до"
+msgstr "Время до"
 
 #: includes/class-inventor-metaboxes.php:1214
 #: includes/class-inventor-metaboxes.php:1319
@@ -690,7 +690,7 @@ msgstr "Местонахождение"
 #: includes/class-inventor-metaboxes.php:1215
 #@ inventor
 msgid "Set location of the listing. It will help people to find it."
-msgstr "Установить местоположение интересующей веши. Это поможет людям найти его."
+msgstr "Установить местоположение интересующего объявления. Это поможет людям найти его."
 
 #: includes/class-inventor-metaboxes.php:1224
 #@ inventor
@@ -700,7 +700,7 @@ msgstr "Местоположение на карте"
 #: includes/class-inventor-metaboxes.php:1240
 #@ inventor
 msgid "Map Location Polygon"
-msgstr ""
+msgstr "Расположение на карте"
 
 #: includes/class-inventor-metaboxes.php:1246
 #@ inventor
@@ -721,7 +721,7 @@ msgstr "Проверьте, чтобы включить режим просмо�
 #: includes/class-inventor-metaboxes.php:1270
 #@ inventor
 msgid "Street View Location"
-msgstr ""
+msgstr "Улечный вид расположения"
 
 #: includes/class-inventor-metaboxes.php:1288
 #@ inventor
@@ -736,7 +736,7 @@ msgstr "Проверьте, чтобы включить вид изнутри"
 #: includes/class-inventor-metaboxes.php:1301
 #@ inventor
 msgid "Inside View Location"
-msgstr ""
+msgstr "Внутренний вид расположения"
 
 #: includes/class-inventor-post-types.php:498
 #@ inventor
@@ -775,7 +775,7 @@ msgstr "Социальные связи"
 #: includes/class-inventor-reports.php:34
 #@ inventor
 msgid "Listing was reported"
-msgstr ""
+msgstr "Объявление было передано"
 
 #: includes/class-inventor-reports.php:98
 #: includes/post-types/class-inventor-post-type-listing.php:119
@@ -783,12 +783,12 @@ msgstr ""
 #@ inventor-claims
 #@ inventor
 msgid "reCAPTCHA is not valid."
-msgstr ""
+msgstr "рекапчи не является действительным."
 
 #: includes/class-inventor-reports.php:160
 #@ inventor
 msgid "Listing was reported. Please, wait for admin review."
-msgstr ""
+msgstr "Объявление было передано. Пожалуйста, подождите обзора администратора."
 
 #: includes/class-inventor-reports.php:162
 #: includes/post-types/class-inventor-post-type-listing.php:190
@@ -830,7 +830,7 @@ msgstr "Отсутствуют данные об оплате."
 #: includes/post-types/class-inventor-post-type-user.php:496
 #@ inventor
 msgid "You must agree terms &amp; conditions."
-msgstr ""
+msgstr "Вы должны согласовать условия и обстоятельства."
 
 #: includes/customizations/class-inventor-customizations-currency.php:34
 #@ inventor
@@ -840,7 +840,7 @@ msgstr ""
 #: includes/customizations/class-inventor-customizations-currency.php:46
 #@ inventor
 msgid "Currency Symbol"
-msgstr ""
+msgstr "Символ валюты"
 
 #: includes/customizations/class-inventor-customizations-currency.php:59
 #@ inventor
@@ -850,7 +850,7 @@ msgstr "Код валюты"
 #: includes/customizations/class-inventor-customizations-currency.php:73
 #@ inventor
 msgid "Show Symbol After Amount"
-msgstr ""
+msgstr "Показывают знак зосле суммы"
 
 #: includes/customizations/class-inventor-customizations-currency.php:85
 #@ inventor
@@ -882,12 +882,12 @@ msgstr "Разделитель"
 #: includes/customizations/class-inventor-customizations-currency.php:129
 #@ inventor-currencies
 msgid "\" \" (space)"
-msgstr ""
+msgstr "\" \" (пробел)"
 
 #: includes/customizations/class-inventor-customizations-currency.php:130
 #@ inventor-currencies
-msgid "\"\" (empty string)"
-msgstr ""
+msgid  " \"\" (empty string)"
+msgstr " \"\" (пустая строка)"
 
 #: includes/customizations/class-inventor-customizations-general.php:34
 #@ inventor
@@ -897,7 +897,7 @@ msgstr ""
 #: includes/customizations/class-inventor-customizations-general.php:61
 #@ inventor
 msgid "Post types"
-msgstr ""
+msgstr "Типы сообщений"
 
 #: includes/customizations/class-inventor-customizations-general.php:63
 #@ inventor
@@ -907,7 +907,7 @@ msgstr ""
 #: includes/customizations/class-inventor-customizations-general.php:81
 #@ inventor
 msgid "Listing banner types"
-msgstr ""
+msgstr "Объявление типов баннеров"
 
 #: includes/customizations/class-inventor-customizations-general.php:83
 #@ inventor
@@ -917,7 +917,7 @@ msgstr "Список доступных  баннеров для списков\
 #: includes/customizations/class-inventor-customizations-general.php:96
 #@ inventor
 msgid "Default listing banner type"
-msgstr ""
+msgstr "Тип баннера по умолчанию"
 
 #: includes/customizations/class-inventor-customizations-general.php:97
 #@ inventor
@@ -927,12 +927,12 @@ msgstr "Должен быть один из вышеперечисленных �
 #: includes/customizations/class-inventor-customizations-general.php:112
 #@ inventor
 msgid "Default sorting for listing archive"
-msgstr ""
+msgstr "По умолчанию сортировка для перечисления архива"
 
 #: includes/customizations/class-inventor-customizations-general.php:127
 #@ inventor
 msgid "Default ordering for listing archive"
-msgstr ""
+msgstr "Упорядочение по умолчанию для объявлений архива"
 
 #: includes/customizations/class-inventor-customizations-general.php:145
 #@ inventor
@@ -942,7 +942,7 @@ msgstr "Автоматический вход пользователя посл�
 #: includes/customizations/class-inventor-customizations-general.php:146
 #@ inventor
 msgid "User won't have to sing in after registration"
-msgstr ""
+msgstr "Пользователю не придется петь после регистрации"
 
 #: includes/customizations/class-inventor-customizations-general.php:160
 #@ inventor
@@ -952,7 +952,7 @@ msgstr "Показать рекомендованное  изображение 
 #: includes/customizations/class-inventor-customizations-general.php:161
 #@ inventor
 msgid "Featured image of listing will be shown in its gallery"
-msgstr ""
+msgstr "Показанный изображение объявления которой будет показано в галерее"
 
 #: includes/customizations/class-inventor-customizations-general.php:175
 #@ inventor
@@ -997,7 +997,7 @@ msgstr ""
 #: includes/customizations/class-inventor-customizations-measurement.php:46
 #@ inventor
 msgid "Area Unit"
-msgstr "единичная площадь"
+msgstr "Единичная площадь"
 
 #: includes/customizations/class-inventor-customizations-measurement.php:59
 #@ inventor
@@ -1022,7 +1022,7 @@ msgstr "Пример: \\ \\\"миль \" или \\ \\\"км \""
 #: includes/customizations/class-inventor-customizations-measurement.php:87
 #@ inventor
 msgid "Weight unit"
-msgstr "удельный вес"
+msgstr "Удельный вес"
 
 #: includes/customizations/class-inventor-customizations-measurement.php:90
 #@ inventor
@@ -1117,7 +1117,7 @@ msgstr "Улица . Почтовый ящик"
 #: includes/customizations/class-inventor-customizations-wire-transfer.php:38
 #@ inventor
 msgid "Postcode"
-msgstr "почтовый индекс"
+msgstr "Почтовый индекс"
 
 #: includes/customizations/class-inventor-customizations-wire-transfer.php:55
 #@ inventor
@@ -1165,7 +1165,7 @@ msgstr "Введите вашу страну [обязательно]"
 #@ inventor
 #@ cmb2
 msgid "No terms"
-msgstr ""
+msgstr "Нет терминов"
 
 #: includes/field-types/class-inventor-field-types-unique-user-email.php:61
 #@ inventor
@@ -1175,14 +1175,14 @@ msgstr "доступный e-mail"
 #: includes/field-types/class-inventor-field-types-unique-user-email.php:68
 #@ inventor
 msgid "E-mail already exists."
-msgstr "e-mail  уже существует."
+msgstr "E-mail  уже существует."
 
 #: includes/post-types/class-inventor-post-type-business.php:47
 #: includes/post-types/class-inventor-post-type-business.php:53
 #: includes/post-types/class-inventor-post-type-business.php:59
 #@ inventor
 msgid "Businesses"
-msgstr ""
+msgstr "Компании"
 
 #: includes/post-types/class-inventor-post-type-business.php:48
 #@ inventor
@@ -1213,17 +1213,17 @@ msgstr "Просмотреть "
 #: includes/post-types/class-inventor-post-type-business.php:55
 #@ inventor
 msgid "Search Business"
-msgstr ""
+msgstr "Найти "
 
 #: includes/post-types/class-inventor-post-type-business.php:56
 #@ inventor
 msgid "No Businesses found"
-msgstr ""
+msgstr "Ни одной Компании найдено"
 
 #: includes/post-types/class-inventor-post-type-business.php:57
 #@ inventor
 msgid "No Businesses Found in Trash"
-msgstr ""
+msgstr "Нет компаний в корзину"
 
 #: includes/post-types/class-inventor-post-type-business.php:68
 #@ inventor
@@ -1284,7 +1284,7 @@ msgstr "Нет Автомобили  в корзине"
 #@ inventor
 msgctxt "URL slug"
 msgid "cars"
-msgstr "cars"
+msgstr ""
 
 #: includes/post-types/class-inventor-post-type-car.php:108
 #@ inventor
@@ -1299,7 +1299,7 @@ msgstr "Тип кузова"
 #: includes/post-types/class-inventor-post-type-car.php:124
 #@ inventor
 msgid "Transmission"
-msgstr "коробка передач"
+msgstr "Коробка передач"
 
 #: includes/post-types/class-inventor-post-type-car.php:132
 #@ inventor
@@ -1314,7 +1314,7 @@ msgstr "Год изготовления"
 #: includes/post-types/class-inventor-post-type-car.php:151
 #@ inventor
 msgid "Mileage"
-msgstr "пробег"
+msgstr "Пробег"
 
 #: includes/post-types/class-inventor-post-type-car.php:162
 #@ inventor
@@ -1339,19 +1339,19 @@ msgstr "Лизинг доступен"
 #: includes/post-types/class-inventor-post-type-car.php:189
 #@ inventor
 msgid "Interior color"
-msgstr "цвет интерьера"
+msgstr "Цвет интерьера"
 
 #: includes/post-types/class-inventor-post-type-car.php:197
 #@ inventor
 msgid "Exterior color"
-msgstr "цвет кузова"
+msgstr "Цвет кузова"
 
 #: includes/post-types/class-inventor-post-type-dating.php:48
 #: includes/post-types/class-inventor-post-type-dating.php:54
 #: includes/post-types/class-inventor-post-type-dating.php:60
 #@ inventor
 msgid "Datings"
-msgstr "Брачное\n"
+msgstr "Знакомства"
 
 #: includes/post-types/class-inventor-post-type-dating.php:49
 #@ inventor
@@ -1506,7 +1506,7 @@ msgstr ""
 #: includes/post-types/class-inventor-post-type-education.php:108
 #@ inventor
 msgid "Education subject"
-msgstr "условии образования"
+msgstr "Условии образования"
 
 #: includes/post-types/class-inventor-post-type-education.php:115
 #@ inventor
@@ -1569,7 +1569,7 @@ msgstr "События не найдены в корзине"
 #@ inventor
 msgctxt "URL slug"
 msgid "events"
-msgstr "events"
+msgstr ""
 
 #: includes/post-types/class-inventor-post-type-event.php:107
 #@ inventor
@@ -1581,12 +1581,12 @@ msgstr "Тип события"
 #: includes/post-types/class-inventor-post-type-food.php:59
 #@ inventor
 msgid "Food & Drinks"
-msgstr "Еда напитки"
+msgstr "Еда и напитки"
 
 #: includes/post-types/class-inventor-post-type-food.php:48
 #@ inventor
 msgid "Food & Drink"
-msgstr "Еда напитки"
+msgstr "Еда и напитки"
 
 #: includes/post-types/class-inventor-post-type-food.php:49
 #: includes/post-types/class-inventor-post-type-food.php:50
@@ -1617,18 +1617,18 @@ msgstr "Поиск Еду и напитки"
 #: includes/post-types/class-inventor-post-type-food.php:56
 #@ inventor
 msgid "No Food & Drinks found"
-msgstr "Нету еды и напитков"
+msgstr "Нет еды и напитков"
 
 #: includes/post-types/class-inventor-post-type-food.php:57
 #@ inventor
 msgid "No Food & Drinks Found in Trash"
-msgstr "Нету еды и напитков в корзине"
+msgstr "Нет еды и напитков в корзине"
 
 #: includes/post-types/class-inventor-post-type-food.php:68
 #@ inventor
 msgctxt "URL slug"
 msgid "foods"
-msgstr "еда"
+msgstr ""
 
 #: includes/post-types/class-inventor-post-type-food.php:95
 #@ inventor
@@ -1638,7 +1638,7 @@ msgstr "Тип еды"
 #: includes/post-types/class-inventor-post-type-food.php:103
 #@ inventor
 msgid "Meals and drinks menu"
-msgstr "Блюда и напитки меню"
+msgstr "Меню блюд и напитков"
 
 #: includes/post-types/class-inventor-post-type-food.php:113
 #@ inventor
@@ -1658,7 +1658,7 @@ msgstr "Удалить"
 #: includes/post-types/class-inventor-post-type-food.php:143
 #@ inventor
 msgid "Serving day"
-msgstr ""
+msgstr "День обслуживаний"
 
 #: includes/post-types/class-inventor-post-type-food.php:145
 #@ inventor
@@ -1728,12 +1728,12 @@ msgstr "Нет отелей в корзине"
 #@ inventor
 msgctxt "URL slug"
 msgid "hotels"
-msgstr "отели"
+msgstr ""
 
 #: includes/post-types/class-inventor-post-type-hotel.php:94
 #@ inventor
 msgid "Hotel class"
-msgstr "класс отеля"
+msgstr "Класс отеля"
 
 #: includes/post-types/class-inventor-post-type-hotel.php:101
 #@ inventor
@@ -1745,7 +1745,7 @@ msgstr "Комнаты"
 #: includes/post-types/class-inventor-post-type-report.php:126
 #@ inventor
 msgid "Listing"
-msgstr "составление списка"
+msgstr "Составление списка"
 
 #: includes/post-types/class-inventor-post-type-listing.php:60
 #: includes/post-types/class-inventor-post-type-listing.php:61
@@ -1787,7 +1787,7 @@ msgstr "Объявление не найдено в корзине"
 #@ inventor
 msgctxt "URL slug"
 msgid "listings"
-msgstr "объявлении"
+msgstr ""
 
 #: includes/post-types/class-inventor-post-type-listing.php:130
 #@ inventor
@@ -1840,18 +1840,18 @@ msgstr "Поиск музыки"
 #: includes/post-types/class-inventor-post-type-music.php:43
 #@ inventor
 msgid "No Musics found"
-msgstr "не найдено "
+msgstr "Музык не найдена "
 
 #: includes/post-types/class-inventor-post-type-music.php:44
 #@ inventor
 msgid "No Musics Found in Trash"
-msgstr "не найдено в корзине"
+msgstr "Музыка в карзине не найдена"
 
 #: includes/post-types/class-inventor-post-type-music.php:55
 #@ inventor
 msgctxt "URL slug"
 msgid "musics"
-msgstr "музыка"
+msgstr ""
 
 #: includes/post-types/class-inventor-post-type-pet.php:61
 #: includes/post-types/class-inventor-post-type-pet.php:67
@@ -1894,18 +1894,18 @@ msgstr "Поиск питомца"
 #: includes/post-types/class-inventor-post-type-pet.php:70
 #@ inventor
 msgid "No Pets found"
-msgstr "Нету питомцев"
+msgstr "Нет питомцев"
 
 #: includes/post-types/class-inventor-post-type-pet.php:71
 #@ inventor
 msgid "No Pets Found in Trash"
-msgstr "Нету питомцев в корзине"
+msgstr "Нет питомцев в корзине"
 
 #: includes/post-types/class-inventor-post-type-pet.php:82
 #@ inventor
 msgctxt "URL slug"
 msgid "pets"
-msgstr "животные"
+msgstr ""
 
 #: includes/post-types/class-inventor-post-type-pet.php:108
 #@ inventor
@@ -1958,12 +1958,12 @@ msgstr "Нет отчетов"
 #: includes/post-types/class-inventor-post-type-report.php:47
 #@ inventor
 msgid "No Reports Found in Trash"
-msgstr "нет отчетов в корзине"
+msgstr "Нет отчетов в корзине"
 
 #: includes/post-types/class-inventor-post-type-report.php:83
 #@ inventor
 msgid "Listing ID"
-msgstr "Листинг ID"
+msgstr "ID Объявления"
 
 #: includes/post-types/class-inventor-post-type-report.php:99
 #@ inventor
@@ -1974,7 +1974,7 @@ msgstr "Эл. адрес"
 #: includes/post-types/class-inventor-post-type-report.php:127
 #@ inventor
 msgid "Reason"
-msgstr "причина"
+msgstr "Причина"
 
 #: includes/post-types/class-inventor-post-type-report.php:111
 #: templates/widgets/listing-author.php:77
@@ -1988,7 +1988,7 @@ msgstr "Сообщение"
 #: includes/post-types/class-inventor-post-type-transaction.php:145
 #@ inventor
 msgid "Author"
-msgstr "автор"
+msgstr "Автор"
 
 #: includes/post-types/class-inventor-post-type-shopping.php:61
 #: includes/post-types/class-inventor-post-type-shopping.php:67
@@ -2031,23 +2031,23 @@ msgstr "Поиск шоппинга"
 #: includes/post-types/class-inventor-post-type-shopping.php:70
 #@ inventor
 msgid "No Shoppings found"
-msgstr "шоппинг не найден"
+msgstr "Шоппинг не найден"
 
 #: includes/post-types/class-inventor-post-type-shopping.php:71
 #@ inventor
 msgid "No Shoppings Found in Trash"
-msgstr "в корзине не найден шоппинг"
+msgstr "В корзине шоппинг не найден"
 
 #: includes/post-types/class-inventor-post-type-shopping.php:82
 #@ inventor
 msgctxt "URL slug"
 msgid "shoppings"
-msgstr "Покупки"
+msgstr ""
 
 #: includes/post-types/class-inventor-post-type-shopping.php:108
 #@ inventor
 msgid "Shopping category"
-msgstr " категории шоппинга"
+msgstr "Категории шоппинга"
 
 #: includes/post-types/class-inventor-post-type-shopping.php:122
 #@ inventor
@@ -2057,7 +2057,7 @@ msgstr "Размер"
 #: includes/post-types/class-inventor-post-type-shopping.php:125
 #@ default
 msgid "For example M, 10cm, 47 ..."
-msgstr ""
+msgstr "Например M, 10cm, 47 ..."
 
 #: includes/post-types/class-inventor-post-type-transaction.php:38
 #@ inventor
@@ -2111,7 +2111,7 @@ msgstr "Способ оплаты"
 #: templates/payment/transactions.php:20
 #@ inventor
 msgid "Gateway"
-msgstr "шлюз"
+msgstr "Шлюз"
 
 #: includes/post-types/class-inventor-post-type-transaction.php:95
 #@ inventor
@@ -2122,12 +2122,12 @@ msgstr "Идентификатор объекта"
 #: includes/post-types/class-inventor-post-type-transaction.php:139
 #@ inventor
 msgid "Payment ID"
-msgstr "Оплата ID"
+msgstr "ID Оплаты"
 
 #: includes/post-types/class-inventor-post-type-transaction.php:113
 #@ inventor
 msgid "Currency"
-msgstr "валюта"
+msgstr "Валюта"
 
 #: includes/post-types/class-inventor-post-type-transaction.php:119
 #: includes/post-types/class-inventor-post-type-transaction.php:144
@@ -2151,7 +2151,7 @@ msgstr "Объект "
 #: includes/post-types/class-inventor-post-type-travel.php:72
 #@ inventor
 msgid "Travels"
-msgstr "Путешествия\n"
+msgstr "Путешествия "
 
 #: includes/post-types/class-inventor-post-type-travel.php:61
 #@ inventor
@@ -2192,13 +2192,13 @@ msgstr "Не найдено"
 #: includes/post-types/class-inventor-post-type-travel.php:70
 #@ inventor
 msgid "No Travels Found in Trash"
-msgstr "не найдено в корзине "
+msgstr "Путишествий в корзине ненайдено "
 
 #: includes/post-types/class-inventor-post-type-travel.php:81
 #@ inventor
 msgctxt "URL slug"
 msgid "travels"
-msgstr "путешествие "
+msgstr ""
 
 #: includes/post-types/class-inventor-post-type-travel.php:107
 #@ inventor
@@ -2274,7 +2274,7 @@ msgstr "Пожалуйста, проверьте почтовый ящик дл�
 #: includes/post-types/class-inventor-post-type-user.php:472
 #@ inventor
 msgid "Username and e-mail are required."
-msgstr "Имя пользователя и адрес электронной почты обязательны."
+msgstr "Имя пользователя и e-mail обязательны."
 
 #: includes/post-types/class-inventor-post-type-user.php:478
 #@ inventor
@@ -2326,7 +2326,7 @@ msgstr "Классический стиль машины"
 #: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:39
 #@ inventor
 msgid "Parent Car Body Style:"
-msgstr ""
+msgstr "Родительский тип кузова:"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:40
 #@ inventor
@@ -2336,7 +2336,7 @@ msgstr "Редактировать стиль кузова автомобиля"
 #: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:41
 #@ inventor
 msgid "Update Car Body Style"
-msgstr "Обновить  стиль кузова автомобиля"
+msgstr "Обновить стиль кузова автомобиля"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:42
 #@ inventor
@@ -2351,7 +2351,7 @@ msgstr "Новый стиль кузова автомобиля"
 #: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:45
 #@ inventor
 msgid "No car body styles found."
-msgstr "нет  стили кузова автомобиля"
+msgstr "Нет стили кузова автомобиля"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-body-styles.php:52
 #@ inventor
@@ -2363,7 +2363,7 @@ msgstr ""
 #: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:44
 #@ inventor
 msgid "Car Engine Types"
-msgstr "тип двигателя автомобиля"
+msgstr "Тип двигателя автомобиля"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:35
 #@ inventor
@@ -2373,7 +2373,7 @@ msgstr "тип двигателя автомобиля"
 #: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:36
 #@ inventor
 msgid "Search Car Engine Type"
-msgstr "поиск типа двигателя автомобиля"
+msgstr "Поиск типа двигателя автомобиля"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:37
 #@ inventor
@@ -2383,12 +2383,12 @@ msgstr "Все типы двигателя автомобиля"
 #: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:38
 #@ inventor
 msgid "Parent Car Engine Type"
-msgstr ""
+msgstr "Родительсуий Тип двигателя автомобиля"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:39
 #@ inventor
 msgid "Parent Car Engine Type:"
-msgstr ""
+msgstr "Родительсуий Тип двигателя автомобиля:"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:40
 #@ inventor
@@ -2413,7 +2413,7 @@ msgstr "Новый тип двигателя автомобиля"
 #: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:45
 #@ inventor
 msgid "No car engine types found."
-msgstr "Нету типа двигателя автомобиля"
+msgstr "Нет типа двигателя автомобиля"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-engine-types.php:52
 #@ inventor
@@ -2445,12 +2445,12 @@ msgstr "Все модели автомобилей"
 #: includes/taxonomies/class-inventor-taxonomy-car-models.php:38
 #@ inventor
 msgid "Parent Car Model"
-msgstr ""
+msgstr "Родительская Модель автомобиля"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-models.php:39
 #@ inventor
 msgid "Parent Car Model:"
-msgstr ""
+msgstr "Родительская Модель автомобиля:"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-models.php:40
 #@ inventor
@@ -2507,12 +2507,12 @@ msgstr "Все коробки передач "
 #: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:38
 #@ inventor
 msgid "Parent Car Transmission"
-msgstr ""
+msgstr "Родительская коробка передач "
 
 #: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:39
 #@ inventor
 msgid "Parent Car Transmission:"
-msgstr ""
+msgstr "Родительская коробка передач:"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:40
 #@ inventor
@@ -2537,7 +2537,7 @@ msgstr "Новая Коробка передач"
 #: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:45
 #@ inventor
 msgid "No car transmissions found."
-msgstr "Нету коробок передач"
+msgstr "Нет коробок передач"
 
 #: includes/taxonomies/class-inventor-taxonomy-car-transmissions.php:52
 #@ inventor
@@ -2594,7 +2594,7 @@ msgstr "Новый цвет"
 #: includes/taxonomies/class-inventor-taxonomy-colors.php:45
 #@ inventor
 msgid "No colors found."
-msgstr "Нету цветов"
+msgstr "Нет цветов"
 
 #: includes/taxonomies/class-inventor-taxonomy-colors.php:52
 #@ inventor
@@ -2656,7 +2656,7 @@ msgstr "Новая Группа знакомств"
 #: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:45
 #@ inventor
 msgid "No dating groups found."
-msgstr "Нету групп знакомств"
+msgstr "Нет групп знакомств"
 
 #: includes/taxonomies/class-inventor-taxonomy-dating-groups.php:52
 #@ inventor
@@ -2691,13 +2691,13 @@ msgstr "Все Интересы в знакомствах"
 #: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:38
 #@ inventor
 msgid "Parent Dating Status"
-msgstr ""
+msgstr "Исходный статус знакомства "
 
 #: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:39
 #: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:39
 #@ inventor
 msgid "Parent Dating Status:"
-msgstr ""
+msgstr "Исходный статус знакомства:"
 
 #: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:40
 #: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:40
@@ -2726,7 +2726,7 @@ msgstr "Новый статус знакомств"
 #: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:45
 #@ inventor
 msgid "No dating interests found."
-msgstr "Нету интересов в знакомстве"
+msgstr "Нет интересов в знакомстве"
 
 #: includes/taxonomies/class-inventor-taxonomy-dating-interests.php:52
 #@ inventor
@@ -2748,7 +2748,7 @@ msgstr "Все статусы знакомств"
 #: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:45
 #@ inventor
 msgid "No dating statuses found."
-msgstr "Нету статусов знакомств"
+msgstr "Нет статусов знакомств"
 
 #: includes/taxonomies/class-inventor-taxonomy-dating-statuses.php:52
 #@ inventor
@@ -2780,12 +2780,12 @@ msgstr "Все Уровни оброзования"
 #: includes/taxonomies/class-inventor-taxonomy-education-levels.php:38
 #@ inventor
 msgid "Parent Education Level"
-msgstr ""
+msgstr "Исходный уровень образования"
 
 #: includes/taxonomies/class-inventor-taxonomy-education-levels.php:39
 #@ inventor
 msgid "Parent Education Level:"
-msgstr ""
+msgstr "Исходный уровень образования:"
 
 #: includes/taxonomies/class-inventor-taxonomy-education-levels.php:40
 #@ inventor
@@ -2810,7 +2810,7 @@ msgstr "Новые Уровни оброзования"
 #: includes/taxonomies/class-inventor-taxonomy-education-levels.php:45
 #@ inventor
 msgid "No education levels found."
-msgstr "Нету Уровней оброзования"
+msgstr "Нет Уровней оброзования"
 
 #: includes/taxonomies/class-inventor-taxonomy-education-levels.php:52
 #@ inventor
@@ -2842,12 +2842,12 @@ msgstr "Все Предметы обучения"
 #: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:38
 #@ inventor
 msgid "Parent Education Subject"
-msgstr ""
+msgstr "Исходный предмет обучения"
 
 #: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:39
 #@ inventor
 msgid "Parent Education Subject:"
-msgstr ""
+msgstr "Исходный предмет обучения:"
 
 #: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:40
 #@ inventor
@@ -2872,7 +2872,7 @@ msgstr "Новый Предмет обучения"
 #: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:45
 #@ inventor
 msgid "No education subjects found."
-msgstr "Нету Предмета обучения"
+msgstr "Нет Предмета обучения"
 
 #: includes/taxonomies/class-inventor-taxonomy-education-subjects.php:52
 #@ inventor
@@ -2904,12 +2904,12 @@ msgstr "Все Виды мероприятии"
 #: includes/taxonomies/class-inventor-taxonomy-event-types.php:38
 #@ inventor
 msgid "Parent Event Type"
-msgstr ""
+msgstr "Исходный тип мероприятия"
 
 #: includes/taxonomies/class-inventor-taxonomy-event-types.php:39
 #@ inventor
 msgid "Parent Event Type:"
-msgstr ""
+msgstr "Исходный тип мероприятия:"
 
 #: includes/taxonomies/class-inventor-taxonomy-event-types.php:40
 #@ inventor
@@ -2934,7 +2934,7 @@ msgstr "Новый Вид мероприятии"
 #: includes/taxonomies/class-inventor-taxonomy-event-types.php:45
 #@ inventor
 msgid "No event types found."
-msgstr "Нету Видов мероприятии"
+msgstr "Нет Видов мероприятии"
 
 #: includes/taxonomies/class-inventor-taxonomy-event-types.php:52
 #@ inventor
@@ -2996,7 +2996,7 @@ msgstr "Новый Вид еды"
 #: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:45
 #@ inventor
 msgid "No food kinds found."
-msgstr "Нету видов еды"
+msgstr "Нет видов еды"
 
 #: includes/taxonomies/class-inventor-taxonomy-food-kinds.php:52
 #@ inventor
@@ -3028,12 +3028,12 @@ msgstr "Все классы отеля"
 #: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:38
 #@ inventor
 msgid "Parent Hotel Class"
-msgstr ""
+msgstr "Исходный класс отеля"
 
 #: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:39
 #@ inventor
 msgid "Parent Hotel Class:"
-msgstr ""
+msgstr "Исходный класс отеля:"
 
 #: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:40
 #@ inventor
@@ -3058,7 +3058,7 @@ msgstr "Новый класс отеля"
 #: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:45
 #@ inventor
 msgid "No hotel classes found."
-msgstr "нету классов отеля"
+msgstr "Нет классов отеля"
 
 #: includes/taxonomies/class-inventor-taxonomy-hotel-classes.php:52
 #@ inventor
@@ -3132,7 +3132,7 @@ msgstr ""
 #: includes/taxonomies/class-inventor-taxonomy-listing-categories.php:200
 #@ inventor
 msgid "Listing Category Options"
-msgstr ""
+msgstr "Пораметры категорий объявлений"
 
 #: includes/taxonomies/class-inventor-taxonomy-locations.php:36
 #@ inventor
@@ -3239,7 +3239,7 @@ msgstr "Новый музыкальный жанр"
 #: includes/taxonomies/class-inventor-taxonomy-music-genres.php:45
 #@ inventor
 msgid "No music genres found."
-msgstr "Нету музыкального жанра"
+msgstr "Нет музыкального жанра"
 
 #: includes/taxonomies/class-inventor-taxonomy-music-genres.php:52
 #@ inventor
@@ -3441,12 +3441,12 @@ msgstr "Фильтр "
 #: includes/widgets/class-inventor-widget-filter.php:25
 #@ inventor
 msgid "Filter for filtering listings."
-msgstr "Фильтр для фильтрации списков."
+msgstr "Фильтр для фильтрации объявлений."
 
 #: includes/widgets/class-inventor-widget-listing-author.php:23
 #@ inventor
 msgid "Listing Author"
-msgstr ""
+msgstr "Автор объявления"
 
 #: includes/widgets/class-inventor-widget-listing-author.php:25
 #@ inventor
@@ -3461,43 +3461,43 @@ msgstr ""
 #: includes/widgets/class-inventor-widget-listing-categories-boxes.php:25
 #@ inventor
 msgid "Displays listing categories in boxes."
-msgstr ""
+msgstr "Отображать категорий объявлений в блоках."
 
 #: includes/widgets/class-inventor-widget-listing-categories.php:23
 #: templates/widgets/listings-admin.php:196
 #@ inventor
 msgid "Listing Categories"
-msgstr ""
+msgstr "Категории объявлений"
 
 #: includes/widgets/class-inventor-widget-listing-categories.php:25
 #@ inventor
 msgid "Displays listing categories."
-msgstr ""
+msgstr "Отображение категории объявления."
 
 #: includes/widgets/class-inventor-widget-listing-details.php:23
 #@ inventor
 msgid "Listing details"
-msgstr ""
+msgstr "Детали объявления"
 
 #: includes/widgets/class-inventor-widget-listing-details.php:25
 #@ inventor
 msgid "Displays listing details."
-msgstr ""
+msgstr "Показать детали объявления"
 
 #: includes/widgets/class-inventor-widget-listing-inquire.php:23
 #@ inventor
 msgid "Listing Inquire"
-msgstr ""
+msgstr "Запрос объявления "
 
 #: includes/widgets/class-inventor-widget-listing-inquire.php:25
 #@ inventor
 msgid "Listing inquire widget for sending inquire messages."
-msgstr ""
+msgstr "Объявление указать виджет для отправки сообщений запросов."
 
 #: includes/widgets/class-inventor-widget-listings.php:25
 #@ inventor
 msgid "Displays listings."
-msgstr ""
+msgstr "Отоброжать объявления"
 
 #: includes/widgets/class-inventor-widget-opening-hours.php:23
 #@ inventor
@@ -3507,7 +3507,7 @@ msgstr "Часы работы"
 #: includes/widgets/class-inventor-widget-opening-hours.php:25
 #@ inventor
 msgid "Displays opening hours for current listing."
-msgstr ""
+msgstr "Отоброжать часы работы для текущего объявления"
 
 #: includes/widgets/class-inventor-widget-users.php:23
 #@ inventor
@@ -3529,13 +3529,13 @@ msgstr ""
 #: inventor.php:0
 #@ inventor
 msgid "Directory plugin for all kinds of listings."
-msgstr "плагин каталога для всех видов списков."
+msgstr "Отоброжать плагин для всех видов объявлений."
 
 #. translators: plugin header field 'Author'
 #: inventor.php:0
 #@ inventor
 msgid "Pragmatic Mates"
-msgstr ""
+msgstr "Прагматичные Товарищи"
 
 #. translators: plugin header field 'AuthorURI'
 #: inventor.php:0
@@ -3803,12 +3803,12 @@ msgstr ""
 #: libraries/class-tgm-plugin-activation.php:2167
 #@ tgmpa
 msgid "Required"
-msgstr ""
+msgstr "Требуется"
 
 #: libraries/class-tgm-plugin-activation.php:2170
 #@ tgmpa
 msgid "Recommended"
-msgstr ""
+msgstr "Рекомендуется"
 
 #: libraries/class-tgm-plugin-activation.php:2186
 #@ tgmpa
@@ -4186,7 +4186,7 @@ msgstr "Повторите ввод пароля"
 #: templates/payment/payment-form.php:93
 #, php-format
 #@ inventor
-msgid "I agree with <a href=\"%s\">terms & conditions</a>"
+msgid "Я согласен с условиями<a href=\"%s\">условиями</a>"
 msgstr ""
 
 #: templates/accounts/register.php:51
@@ -4245,7 +4245,7 @@ msgstr "Следующий "
 #@ inventor
 msgid "%d listing"
 msgid_plural "%d listings"
-msgstr[0] ""
+msgstr[0] " %d объявлений "
 msgstr[1] ""
 msgstr[2] ""
 
@@ -4378,7 +4378,7 @@ msgstr "Архивы Блога"
 #: templates/misc/breadcrumb.php:101
 #@ inventor
 msgid "Search Results"
-msgstr "результаты поиска"
+msgstr "Результаты поиска"
 
 #: templates/misc/not-allowed.php:9
 #@ inventor
@@ -4413,13 +4413,13 @@ msgstr "Распечатать"
 #: templates/misc/report-form.php:3
 #@ inventor
 msgid "You have to specify listing!"
-msgstr "Вы должны указать список!"
+msgstr "Вы должны указать объявление!"
 
 #: templates/misc/report-form.php:6
 #, php-format
 #@ inventor
 msgid "What's wrong with %s?"
-msgstr ""
+msgstr "Что случилось с %s"
 
 #: templates/misc/report-form.php:14
 #: templates/misc/report-form.php:15
@@ -4449,7 +4449,7 @@ msgstr "Неуместно"
 #: templates/misc/report-form.php:43
 #@ inventor
 msgid "It insults or attacks someone based on their religion, ethnicity or sexual orientation"
-msgstr ""
+msgstr "Это оскорбляет и нападает кто-то на основе их религии, этнической принадлежности или сексуальной ориентации"
 
 #: templates/misc/report-form.php:49
 #: templates/misc/report-form.php:50
@@ -4531,7 +4531,7 @@ msgstr "Спрятать"
 #, php-format
 #@ inventor
 msgid "for package \"%s\""
-msgstr "для пакетов \\ \\\"В ПРОЦЕНТАХ"
+msgstr "для пакетов \"%s\""
 
 #: templates/payment/gateways/wire-transfer.php:16
 #@ inventor
@@ -4596,7 +4596,7 @@ msgstr "Процесс оплаты"
 #: templates/payment/payment-form.php:107
 #@ inventor
 msgid "No payment gateways found."
-msgstr "платежных шлюзов не найдено."
+msgstr "Платежных шлюзов не найдено."
 
 #: templates/payment/payment-form.php:114
 #@ inventor
@@ -4606,7 +4606,7 @@ msgstr "назад в "
 #: templates/payment/transactions.php:18
 #@ inventor
 msgid "ID"
-msgstr "идентификатор "
+msgstr ""
 
 #: templates/payment/transactions.php:22
 #@ inventor
@@ -4621,17 +4621,17 @@ msgstr "пакет"
 #: templates/payment/transactions.php:53
 #@ inventor
 msgid "Listing purchase"
-msgstr ""
+msgstr "Объявление о покупке"
 
 #: templates/payment/transactions.php:56
 #@ inventor
-msgid "Featured listing"
+msgid "Особое объявления"
 msgstr ""
 
 #: templates/payment/transactions.php:59
 #@ inventor
 msgid "Publish listing"
-msgstr "Опубликовать листинг"
+msgstr "Опубликовать объявление"
 
 #: templates/payment/transactions.php:83
 #@ inventor
@@ -4701,7 +4701,7 @@ msgstr "Параметры сортировки"
 #: templates/widgets/filter-admin.php:54
 #@ inventor
 msgid "Input titles"
-msgstr "названия входных данных"
+msgstr "Названия входных данных"
 
 #: templates/widgets/filter-admin.php:65
 #@ inventor
@@ -4711,7 +4711,7 @@ msgstr "Этикетки"
 #: templates/widgets/filter-admin.php:77
 #@ inventor
 msgid "Placeholders"
-msgstr "заполнителей"
+msgstr ""
 
 #: templates/widgets/filter-admin.php:83
 #@ inventor
@@ -4774,7 +4774,7 @@ msgstr ""
 #: templates/widgets/filter-form.php:75
 #@ inventor
 msgid "Desc"
-msgstr "Описание изделия"
+msgstr ""
 
 #: templates/widgets/filter-form.php:85
 #@ inventor
@@ -4855,7 +4855,7 @@ msgstr "Отправить сообщение"
 #: templates/widgets/users-admin.php:42
 #@ inventor
 msgid "Count"
-msgstr "подсчитать "
+msgstr "количество "
 
 #: templates/widgets/listings-admin.php:61
 #: templates/widgets/users-admin.php:56
@@ -4897,7 +4897,7 @@ msgstr "Карусель"
 #: templates/widgets/listings-admin.php:95
 #@ inventor
 msgid "Pickup"
-msgstr "подобрать"
+msgstr "Подобрать"
 
 #: templates/widgets/listings-admin.php:105
 #@ inventor
@@ -4907,13 +4907,13 @@ msgstr "По умолчанию"
 #: templates/widgets/listings-admin.php:117
 #@ inventor
 msgid "Random"
-msgstr "случайно"
+msgstr "Случайно"
 
 #: templates/widgets/listings-admin.php:129
 #: templates/widgets/listings-admin.php:139
 #@ inventor
 msgid "IDs"
-msgstr "идентификаторы"
+msgstr ""
 
 #: templates/widgets/listings-admin.php:147
 #@ inventor
@@ -4928,7 +4928,7 @@ msgstr "Атрибут"
 #: templates/widgets/listings-admin.php:163
 #@ inventor
 msgid "None"
-msgstr "Нету"
+msgstr "Нет"
 
 #: templates/widgets/listings-admin.php:175
 #@ inventor

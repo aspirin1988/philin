@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inventor Reviews v0.7.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-09-18 06:19:35+0000\n"
+"Last-Translator: admin <eidekeyev@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/class-inventor-reviews-logic.php:107
+#: includes/class-inventor-reviews-logic.php:119
+#: includes/class-inventor-reviews-logic.php:483
+#: templates/admin/review-admin-field-rating.php:2
+#: templates/review-field-rating.php:3
+#: templates/review-listing-rating.php:12
+#: templates/review-single.php:50
+#: templates/widgets/filter-fields/rating.php:4
+#: templates/widgets/filter-fields/rating.php:12
+#@ inventor-reviews
+#@ inventor-review
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: includes/class-inventor-reviews-logic.php:194
+#@ inventor-reviews
+msgid "PROS: "
+msgstr "ПРОФИ: "
+
+#: includes/class-inventor-reviews-logic.php:194
+#@ inventor-reviews
+msgid "CONS: "
+msgstr "МИНУСЫ: "
+
+#: includes/class-inventor-reviews-logic.php:403
+#@ inventor
+msgid "reCAPTCHA is not valid."
+msgstr "рекапчи не является действительным."
+
+#: includes/class-inventor-reviews-logic.php:437
+#: templates/admin/review-admin-field-pros.php:2
+#: templates/review-field-pros.php:4
+#: templates/review-single.php:66
+#@ inventor-reviews
+msgid "Pros"
+msgstr "Профи"
+
+#: includes/class-inventor-reviews-logic.php:439
+#: templates/admin/review-admin-field-cons.php:2
+#: templates/review-field-cons.php:4
+#: templates/review-single.php:75
+#@ inventor-reviews
+msgid "Cons"
+msgstr "Минусы"
+
+#. translators: plugin header field 'Name'
+#: inventor-reviews.php:0
+#@ inventor-reviews
+msgid "Inventor Reviews"
+msgstr "Inventor Отзывы"
+
+#. translators: plugin header field 'PluginURI'
+#: inventor-reviews.php:0
+#@ inventor-reviews
+msgid "http://inventorwp.com/plugins/inventor-reviews/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: inventor-reviews.php:0
+#@ inventor-reviews
+msgid "Provides reviews for listings."
+msgstr "Предоставляет обзоры для объявлений"
+
+#. translators: plugin header field 'Author'
+#: inventor-reviews.php:0
+#@ inventor-reviews
+msgid "Pragmatic Mates"
+msgstr "Прагматичные Товарищи"
+
+#. translators: plugin header field 'AuthorURI'
+#: inventor-reviews.php:0
+#@ inventor-reviews
+msgid "http://inventorwp.com"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: inventor-reviews.php:0
+#@ inventor-reviews
+msgid "0.7.0"
+msgstr ""
+
+#: templates/review-field-author.php:3
+#@ inventor-reviews
+msgid "Name"
+msgstr "Имя"
+
+#: templates/review-field-comment.php:2
+#@ inventor-reviews
+msgid "comment"
+msgstr "Коментарий"
+
+#: templates/review-field-email.php:3
+#@ inventor-reviews
+msgid "E-mail"
+msgstr ""
+
+#: templates/review-field-file.php:4
+#@ inventor-reviews
+msgid "Attach image"
+msgstr "Прикрепить изображения"
+
+#: templates/review-field-file.php:8
+#@ inventor-reviews
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: templates/review-list.php:6
+#, php-format
+#@ inventor-reviews
+msgid "One review on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s reviews on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один из обзоров на &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+msgstr[2] ""
+
+#: templates/review-list.php:21
+#@ inventor-reviews
+msgid "Older Reviews"
+msgstr ""
+
+#: templates/review-list.php:22
+#@ inventor-reviews
+msgid "Newer Reviews"
+msgstr "Новые Отзывы"
+
+#: templates/review-list.php:27
+#@ inventor-reviews
+msgid "Reviews are closed."
+msgstr "Отзывы закрыты."
+
+#: templates/review-list.php:38
+#@ inventor-reviews
+msgid "Post New Review"
+msgstr "Сообщение Новый отзыв"
+
+#: templates/review-list.php:39
+#@ inventor-reviews
+msgid "Submit Review"
+msgstr "Добавить отзыв"
+
+#: templates/review-single.php:15
+#@ inventor-reviews
+msgid "Your review is awaiting moderation."
+msgstr "Ваш отзыв ожидает модерации."
+
+#: templates/review-single.php:26
+#@ inventor-reviews
+msgid "Edit"
+msgstr "Редактировать"
+
+#: templates/review-single.php:32
+#@ inventor-reviews
+msgid "Spam"
+msgstr "СПАМ"
+
+#: templates/review-single.php:39
+#@ inventor-reviews
+msgid "Delete"
+msgstr "Удалить"
+
+#: templates/review-total-rating.php:9
+#, php-format
+#@ inventor-reviews
+msgid "<strong>%.2f / 5 </strong> from <a href=\"#listing-detail-section-reviews\">%d review</a>"
+msgid_plural "<strong>%.2f / 5 </strong> from <a href=\"#listing-detail-section-reviews\">%d reviews</a>"
+msgstr[0] "<strong>%.2f / 5 </strong> для <a href=\"#listing-detail-section-reviews\">%d обзор</a>"
+msgstr[1] ""
+msgstr[2] ""
+
+#: templates/widgets/filter-fields/rating.php:14
+#@ inventor-reviews
+msgid "Any rating"
+msgstr "Любой рейтинг"
+

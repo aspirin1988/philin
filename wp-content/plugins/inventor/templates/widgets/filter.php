@@ -42,7 +42,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <?php if ( ! empty( $instance['result_numbers_total'] ) ) : ?>
                     <?php printf( _n( '<span class="match">%d</span> listing from <span class="total">%d</span> matches your search criteria', '<span class="match">%d</span> listings from <span class="total">%d</span> match your search criteria', $matches, 'inventor' ), $matches, $total ); ?>
                 <?php else: ?>
-                    <?php printf( _n( '<span class="match">%d</span> listing matches your search criteria', '<span class="match">%d</span> listings match your search criteria', $matches, 'inventor' ), $matches ); ?>
+                    <?php printf( _n( '<span class="match">%d</span> объявления соответствуют вашим критериям поиска', '<span class="match">%d</span> объявления соответствуют вашим критериям поиска', $matches, 'inventor' ), $matches ); ?>
                 <?php endif; ?>
             </h3>
             <?php do_action( 'inventor_after_filter_result_numbers' ); ?>

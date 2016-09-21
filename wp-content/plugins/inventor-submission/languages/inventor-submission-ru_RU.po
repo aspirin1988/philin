@@ -33,74 +33,74 @@ msgstr "Подача была успешно обновлена."
 #: includes/class-inventor-submission-logic.php:531
 #@ inventor-submission
 msgid "Item has been successfully removed."
-msgstr "Item has been successfully removed."
+msgstr "Элемент успешно удален."
 
 #: includes/class-inventor-submission-logic.php:533
 #@ inventor-submission
 msgid "An error occurred when removing an item."
-msgstr ""
+msgstr "Произошла ошибка при удалении элемента."
 
 #: includes/class-inventor-submission-logic.php:582
 #@ inventor-submission
 msgid "Featured listing"
-msgstr ""
+msgstr "Показанные объявления"
 
 #: includes/class-inventor-submission-logic.php:583
 #, php-format
 #@ inventor-submission
 msgid "Make listing %s featured"
-msgstr ""
+msgstr "Сделать объявление %s популярнее"
 
 #: includes/class-inventor-submission-logic.php:587
 #@ inventor-submission
 msgid "Publish listing"
-msgstr ""
+msgstr "Опубликовать объявление"
 
 #: includes/class-inventor-submission-logic.php:588
 #, php-format
 #@ inventor-submission
 msgid "Publish %s"
-msgstr ""
+msgstr "Опубликовать %s"
 
 #: includes/class-inventor-submission-logic.php:657
 #@ inventor-submission
 msgid "Listing successfully featured."
-msgstr ""
+msgstr "Объявление успешно создано."
 
 #: includes/class-inventor-submission-logic.php:669
 #@ inventor-submission
 msgid "Listing will be published after review."
-msgstr ""
+msgstr "Объявление будет опубликован после проверки."
 
 #: includes/class-inventor-submission-logic.php:673
 #@ invnetor-submission
 msgid "Listing has been published."
-msgstr ""
+msgstr "Объявление был опубликован."
 
 #: includes/class-inventor-submission-shortcodes.php:69
 #@ inventor-submission
 msgid "Check your package."
-msgstr ""
+msgstr "Проверьте свой пакет."
 
 #: includes/class-inventor-submission-shortcodes.php:88
 #@ inventor-submission
 msgid "You are not allowed to submit this type."
-msgstr ""
+msgstr "Вы не можете публиковать данный тип."
 
 #: includes/class-inventor-submission-shortcodes.php:115
 #@ inventor-submission
 msgid "Done"
-msgstr ""
+msgstr "Выполнено"
 
 #: includes/class-inventor-submission-shortcodes.php:115
 #@ inventor-submission
 msgid "Proceed to next step"
-msgstr ""
+msgstr "Перейдите к следующему шагу"
 
 #: includes/class-inventor-submission-shortcodes.php:115
 #@ inventor-submission
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 #. translators: plugin header field 'Name'
 #: includes/customizations/class-inventor-submission-customizations-submission.php:36
@@ -112,62 +112,62 @@ msgstr ""
 #: includes/customizations/class-inventor-submission-customizations-submission.php:49
 #@ inventor-submission
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:50
 #@ inventor-submission
 msgid "Defines what determines number of user listings."
-msgstr ""
+msgstr "Определено, что определяет количество пользовательских объявлений"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:54
 #@ inventor-submission
 msgid "Free for all"
-msgstr ""
+msgstr "Доступно всем"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:55
 #@ inventor-submission
 msgid "Pay per post"
-msgstr ""
+msgstr "Оплата за пост"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:68
 #@ inventor-submission
 msgid "Review Before Submission"
-msgstr ""
+msgstr "Комментарий перед отправкой"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:81
 #@ inventor-submission
 msgid "Publish price"
-msgstr ""
+msgstr "Опубликовать цену"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:84
 #@ inventor-submission
 msgid "For \"pay per post\" submission type"
-msgstr ""
+msgstr "Для \"платить за пост\" типа заявки"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:96
 #@ inventor-submission
 msgid "Featured price"
-msgstr ""
+msgstr "Рекомендуемые цены"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:111
 #@ inventor-submission
 msgid "User listings"
-msgstr ""
+msgstr "Пользовательские обявления"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:126
 #@ inventor-submission
 msgid "Add listing"
-msgstr ""
+msgstr "Добавить объявление"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:141
 #@ inventor-submission
 msgid "Edit listing"
-msgstr ""
+msgstr "Изменить объявление"
 
 #: includes/customizations/class-inventor-submission-customizations-submission.php:156
 #@ inventor-submission
 msgid "Remove listing"
-msgstr ""
+msgstr "Удалить объявление"
 
 #. translators: plugin header field 'PluginURI'
 #: inventor-submission.php:0
@@ -179,13 +179,13 @@ msgstr ""
 #: inventor-submission.php:0
 #@ inventor-submission
 msgid "Adds ability for frontend listing submission."
-msgstr ""
+msgstr "Добавляет возможность для представления фронтенд объявления."
 
 #. translators: plugin header field 'Author'
 #: inventor-submission.php:0
 #@ inventor-submission
 msgid "Pragmatic Mates"
-msgstr ""
+msgstr "Прагматичные товарищи"
 
 #. translators: plugin header field 'AuthorURI'
 #: inventor-submission.php:0
@@ -202,150 +202,152 @@ msgstr ""
 #: templates/submission/list.php:11
 #@ inventor-submission
 msgid "Create listing"
-msgstr ""
+msgstr "Создать объявление"
 
 #: templates/submission/list.php:29
 #@ inventor-submission
 msgid "Listing published"
-msgstr ""
+msgstr "Список опубликованных"
 
 #: templates/submission/list.php:30
 #@ inventor-submission
 msgid "Waiting for review"
-msgstr ""
+msgstr "В ожидании рассмотрения"
 
 #: templates/submission/list.php:31
 #@ inventor-submission
 msgid "Listing disabled"
-msgstr ""
+msgstr "Список отключенных"
 
 #: templates/submission/list.php:44
 #: templates/submission/list.php:124
 #@ inventor-submission
 msgid "Pending"
-msgstr ""
+msgstr "В ожидании"
 
 #: templates/submission/list.php:48
 #: templates/submission/list.php:117
 #@ inventor-submission
 msgid "Published"
-msgstr ""
+msgstr "Опубликовано"
 
 #: templates/submission/list.php:52
 #@ inventor-submission
 msgid "Disabled"
-msgstr ""
+msgstr "Отключено"
 
 #: templates/submission/list.php:98
 #@ inventor-submission
 msgid "Make featured"
-msgstr ""
+msgstr "Сделать лучше"
 
 #: templates/submission/list.php:104
 #@ inventor-submission
 msgid "Featured"
-msgstr ""
+msgstr "Рекомендуемые"
 
 #: templates/submission/list.php:136
 #@ inventor-submission
 msgid "Publish"
-msgstr ""
+msgstr "Публиковать"
 
 #: templates/submission/list.php:151
 #@ inventor-submission
 msgid "Edit"
-msgstr ""
+msgstr "Редактировать"
 
 #: templates/submission/list.php:157
 #@ inventor-submission
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 #: templates/submission/list.php:169
 #@ inventor-submission
 msgid "Previous page"
-msgstr ""
+msgstr "Предыдущая страница"
 
 #: templates/submission/list.php:170
 #@ inventor-submission
 msgid "Next page"
-msgstr ""
+msgstr "Следущая страница"
 
 #: templates/submission/list.php:171
 #@ inventor-submission
 msgid "Page"
-msgstr ""
+msgstr "Страница"
 
 #: templates/submission/list.php:178
 #@ inventor-submission
 msgid "No listings found."
-msgstr ""
+msgstr "Не найдено ни одного объявления."
 
 #: templates/submission/list.php:184
 #@ inventor-submission
 msgid "You don't have any listings, yet. Start by creating new one."
-msgstr ""
+msgstr "У вас нет никаких объявлений, пока. Начните с создания нового."
 
 #: templates/submission/payment-form-before.php:7
 #@ inventor-submission
 msgid "Price is not set."
-msgstr ""
+msgstr "Цена не установлена."
 
 #: templates/submission/payment-form-before.php:12
 #, php-format
 #@ inventor-submission
 msgid "You are going to pay <strong>%s</strong> for featured listing <strong>\"%s\"</strong>."
-msgstr ""
+msgstr "Вы собираетесь платить за <strong>%s</strong> за улучшение объявления <strong>\"%s\"</strong>."
 
 #: templates/submission/payment-form-before.php:14
 #, php-format
 #@ inventor-submission
 msgid "You are going to pay <strong>%s</strong> to publish listing <strong>\"%s\"</strong>."
-msgstr ""
+msgstr "Вы собираетесь платить <strong>%s</strong> за публикацию объявления <strong>\"%s\"</strong>."
 
 #: templates/submission/payment-form-before.php:21
 #@ inventor-submission
 msgid "Missing listing."
-msgstr ""
+msgstr "Объявление потеряно"
 
 #: templates/submission/remove-form.php:3
 #@ inventor-submission
 msgid "You have to specify listing!"
-msgstr ""
+msgstr "Вы должны уточнить объявление!"
 
 #: templates/submission/remove-form.php:6
 #, php-format
 #@ inventor-submission
 msgid "Are you sure you want to delete %s?"
-msgstr ""
+msgstr "Вы уверены, что хотите удалить %s?"
 
 #: templates/submission/remove-form.php:15
 #@ inventor-submission
 msgid "Delete"
-msgstr ""
+msgstr "Удалить"
 
 #: templates/submission/step-title.php:8
 #@ inventor-submission
 msgid "Step"
-msgstr ""
+msgstr "Шаг"
 
 #: templates/submission/steps-not-found.php:1
 #@ inventor-submission
 msgid "Listing type does not have any metaboxes."
-msgstr ""
+msgstr "Тип объекта не имеет никакого метабоксы."
 
 #: templates/submission/steps.php:26
 #@ inventor-submission
 msgid "Nothing to show."
-msgstr ""
+msgstr "Ничего, чтобы показать."
 
 #: templates/submission/type-not-found.php:6
 #@ inventor-submission
 msgid "Please define type of your submission"
-msgstr ""
+msgstr "Пожалуйста, определите тип вашего представления"
 
 #: templates/submission/type-not-found.php:21
 #@ inventor-submission
 msgid "You don't have privilege to create any submission."
-msgstr ""
+msgstr "Вы не имеете права на создание любого представления."
 
+msgid "<span class=\"match\">%d</span> listings match your search criteria"
+msgstr "<span class=\"match\">%d</span> объявления соответствуют вашим критериям поиска"
